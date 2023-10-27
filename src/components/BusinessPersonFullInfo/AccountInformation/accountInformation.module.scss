@@ -1,0 +1,183 @@
+.wrapper {
+  width: 100%;
+
+  .account_information_title {
+    font-style: normal;
+    max-width: 610px;
+    width: 100%;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #233242;
+    margin-bottom: 8px;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(35, 50, 66, 0.5);
+  }
+
+  .business_account_information {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #233242;
+  }
+
+  .user_info_image_wrapper {
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+
+    .person_img {
+      width: 70px;
+      height: 74px;
+      margin-right: 10px;
+      border-radius: 10px;
+      overflow: hidden;
+
+      .person_img_main {
+        width: 100%;
+        height: 100%;
+        position: relative;
+
+        img {
+          width: 100%;
+          height: 100%;
+        }
+
+        .delete_icon {
+          position: absolute;
+          top: 3px;
+          right: 2px;
+          width: 15px;
+          height: 15px;
+          fill: red;
+          opacity: 0;
+        }
+
+        .person_icon {
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          margin: auto;
+          width: 60%;
+          height: 60%;
+          fill: white;
+          z-index: 2;
+        }
+
+        &:hover {
+          .delete_icon {
+            opacity: 1;
+          }
+        }
+      }
+
+    }
+
+    .person_img_label {
+      .add_photo_text {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color: #233242;
+        cursor: pointer;
+      }
+
+      .person_img_input {
+        width: 0;
+        height: 0;
+        visibility: hidden;
+        opacity: 0;
+      }
+    }
+  }
+
+  .person_info_data {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    margin-top: 15px;
+    gap: 15px;
+
+    .save_btn {
+      border: 1px solid #FF5C00;
+      background-color: #FF5C00;
+      color: white;
+
+      &:hover {
+        opacity: .8;
+      }
+    }
+  }
+}
+
+.delete_business_wrapper {
+  width: 100%;
+  border-top: 0.75px solid rgba(0, 0, 0, 0.3);
+  margin-top: 36px;
+
+  .delete_business {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    width: fit-content;
+    color: red;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+}
+
+
+.delete_modal_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  .delete_modal_text {
+    margin-bottom: 20px;
+  }
+
+  .delete {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 36px;
+    border: 1px solid #FF5C00;
+    background-color: #FF5C00;
+    color: white;
+    margin-right: 20px;
+
+    &:hover {
+      opacity: .8;
+      background-color: #FF5C00;
+    }
+  }
+
+  .cancel_btn {
+    padding: 0;
+    border: none;
+    background-color: white;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #000000;
+
+    &:hover {
+      color: #233242;
+      opacity: .8;
+      background-color: transparent;
+    }
+  }
+}
+

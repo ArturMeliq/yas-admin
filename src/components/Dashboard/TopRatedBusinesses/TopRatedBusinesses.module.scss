@@ -1,0 +1,65 @@
+.wrapper {
+  width: 211px;
+  background: #F0F4FE;
+  border-radius: 6px;
+  padding: 13px 16px;
+
+
+  .name_calendar {
+    display: flex;
+    justify-content: end;
+  }
+
+  .title {
+    white-space: pre;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 11px 0;
+  }
+
+  .top_businesses {
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    .image_wrapper {
+      width: 60px;
+      height: 43px;
+      border-radius: 10px;
+      margin-right: 10px;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    .info_wrapper {
+      width: 100%;
+      height: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      .name {
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 14px;
+      }
+
+      .category {
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 13px;
+        color: #233242;
+      }
+    }
+  }
+}

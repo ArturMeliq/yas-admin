@@ -1,0 +1,45 @@
+.add_business_wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  flex-wrap: wrap;
+  padding: 20px;
+
+  .search_for {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+
+    .margin {
+      margin-right: 10px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .add_button {
+    background-color: #233242;
+    border: 1px solid #233242;
+    color: white;
+    margin: 10px 0 30px 0;
+
+
+    &:hover {
+      opacity: .8;
+    }
+  }
+
+  .business_list {
+    width: 100%;
+  }
+}
+
+.table_block {
+  width: 100%;
+  background: white;
+  padding: 20px;
+  margin-top: 10px;
+}
+

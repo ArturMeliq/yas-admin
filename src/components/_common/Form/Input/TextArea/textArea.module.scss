@@ -1,0 +1,66 @@
+.textAreBlock {
+  width: 100%;
+  position: relative;
+
+  .textarea {
+    color: rgba(0, 0, 0, 0.82);
+    display: block;
+    width: 100%;
+    padding: 5px 7px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: #fff;
+    border: 1px solid #d8d7d7;
+    outline: none;
+    border-radius: 4px;
+    height: 100%;
+    transition: all 0.4s;
+    resize: none;
+
+    &.error {
+      border: 1px solid red;
+    }
+
+    &:focus {
+      background-color: #fff;
+      border-color: rgba(0, 0, 0, 0.25);
+
+      ~ .textAre_span {
+        opacity: 1;
+      }
+
+      &::placeholder {
+        opacity: 0;
+      }
+    }
+  }
+
+
+  .textAre_span {
+    opacity: 0;
+    position: absolute;
+    top: -8px;
+    left: 0.75rem;
+    padding: 0 7px;
+    font-size: 0.89rem;
+    color: #4f5467;
+    background-color: white;
+    transition: all 0.4s;
+
+    &.in_focus {
+      opacity: 1;
+    }
+  }
+
+  .max_length_character {
+    position: absolute;
+    right: 20px;
+    top: -8px;
+    font-size: 14px;
+    text-align: center;
+    background: white;
+    padding: 0 7px;
+  }
+
+}

@@ -1,0 +1,39 @@
+.wrapper {
+  width: 100%;
+  padding: 20px;
+
+  .steps {
+    width: 100%;
+    height: 65px;
+    border-radius: 10px;
+    background: rgba(38, 50, 56, 0.1);
+
+    .step {
+      display: inline-flex;
+      align-items: center;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 24px;
+      color: rgba(38, 50, 56, 0.5);
+      transform: rotate(-0.04deg);
+      text-decoration: none;
+      height: 65px;
+      border-radius: 10px;
+      padding: 0 20px;
+      margin-right: 5px;
+
+      &:hover {
+        background-color: #FF5C00;
+        color: white;
+      }
+
+      &.active {
+        background-color: #FF5C00;
+        color: white;
+      }
+    }
+  }
+  .content_wrapper{
+    width: 100%;
+  }
+}

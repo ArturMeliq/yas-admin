@@ -1,0 +1,76 @@
+.block {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+
+  > h2 {
+    font-weight: 700;
+    color: #233242;
+    font-size: 30px;
+    margin: 20px 0;
+  }
+
+  > p {
+    font-weight: 500;
+    color: #6a7a8c;
+    font-size: 18px;
+    margin: 20px 0;
+    letter-spacing: 1px;
+    line-height: 1.5rem;
+  }
+
+  .FLName {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+
+    .fName_input {
+      margin-right: 20px;
+    }
+  }
+
+  .email_input {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .btn_continue {
+    margin-top: 20px;
+    align-self: start;
+  }
+
+  .save_as_draft {
+    background: red;
+    border: 1px solid red;
+    color: white;
+    margin-right: 10px;
+
+    &:hover {
+      background: white;
+      color: red;
+    }
+  }
+
+  .btns {
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    .save {
+      background: green;
+      border: 1px solid green;
+      color: white;
+
+      &:hover {
+        background: white;
+        color: green;
+      }
+    }
+  }
+
+
+}

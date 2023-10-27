@@ -1,0 +1,39 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+
+  .text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #13376C;
+
+  }
+
+  .from {
+  }
+
+  .to {
+
+  }
+
+  .refresh {
+    display: flex;
+    cursor: pointer;
+
+    &.active {
+      transform: rotate(180deg) translateY(1px);
+      transition: all .3s ease;
+    }
+
+    &:hover {
+
+      svg {
+        opacity: .8;
+      }
+    }
+  }
+}

@@ -1,0 +1,6457 @@
+[
+  {
+    "region": {
+      "city": {
+        "EN": "Yerevan",
+        "RU": "Ереван",
+        "ARM": "Երևան"
+      },
+      "province": {
+        "EN": "Yerevan",
+        "RU": "Ереван",
+        "ARM": "Երևան"
+      },
+      "lat": "40.1814",
+      "lng": "44.5144",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "primary",
+      "population": "1075800",
+      "population_proper": "1075800"
+    },
+    "cities": [
+      {
+        "city": {
+          "EN": "Yerevan",
+          "RU": "Ереван",
+          "ARM": "Երևան"
+        },
+        "lat": "40.1581",
+        "lng": "44.4400",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Yerevan",
+        "capital": "",
+        "population": "1734",
+        "population_proper": "1734"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province": {
+        "EN": "Shirak",
+        "RU": "Ширак",
+        "ARM": "Շիրակ"
+      },
+      "lat": "40.833333",
+      "lng": "43.916667",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Gyumri",
+      "population": "251941",
+      "population_proper": "251941"
+    },
+    "cities": [
+      {
+        "city": {
+          "EN": "Gyumri",
+          "RU": "Гюмри",
+          "ARM": "Գյումրի"
+        },
+        "lat": "40.7833",
+        "lng": "43.8333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "admin",
+        "population": "121976",
+        "population_proper": "121976"
+      },
+      {
+        "city": {
+          "EN": "Artik",
+          "RU": "Артик",
+          "ARM": "Արթիկ"
+        },
+        "lat": "40.6167",
+        "lng": "43.9500",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "19543",
+        "population_proper": "19543"
+      },
+      {
+        "city": {
+          "EN": "Akhuryan",
+          "RU": "Ахурян",
+          "ARM": "Ախուրյանը"
+        },
+        "lat": "40.7810",
+        "lng": "43.9001",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "9668",
+        "population_proper": "9668"
+      },
+      {
+        "city": {
+          "EN": "Azatan",
+          "RU": "Азатан",
+          "ARM": "Ազատան"
+        },
+        "lat": "40.7175",
+        "lng": "43.8258",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "5787",
+        "population_proper": "5787"
+      },
+      {
+        "city": {
+          "EN": "Maralik",
+          "RU": "Маралик",
+          "ARM": "Մարալիկ"
+        },
+        "lat": "40.5722",
+        "lng": "43.8669",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "5500",
+        "population_proper": "5500"
+      },
+      {
+        "city": {
+          "EN": "Pemzashen",
+          "RU": "Пемзашен",
+          "ARM": "Պեմզաշեն"
+        },
+        "lat": "40.5933",
+        "lng": "43.9400",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "3322",
+        "population_proper": "3322"
+      },
+      {
+        "city": {
+          "EN": "Voskehask",
+          "RU": "Воскехаск",
+          "ARM": "Ոսկեհասկ"
+        },
+        "lat": "40.7383",
+        "lng": "43.7758",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2754",
+        "population_proper": "2754"
+      },
+      {
+        "city": {
+          "EN": "Panik",
+          "RU": "Паника",
+          "ARM": "Փանիկ"
+        },
+        "lat": "40.6564",
+        "lng": "43.9364",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2531",
+        "population_proper": "2531"
+      },
+      {
+        "city": {
+          "EN": "Ashotsk",
+          "RU": "Ашоцк",
+          "ARM": "Աշոցք"
+        },
+        "lat": "41.0375",
+        "lng": "43.8581",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2491",
+        "population_proper": "2491"
+      },
+      {
+        "city": {
+          "EN": "Anipemza",
+          "RU": "Анипемза",
+          "ARM": "Անիպեմզա"
+        },
+        "lat": "40.4428",
+        "lng": "43.6036",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2359",
+        "population_proper": "2359"
+      },
+      {
+        "city": {
+          "EN": "Marmashen",
+          "RU": "Мармашен",
+          "ARM": "Մարմաշեն"
+        },
+        "lat": "40.8375",
+        "lng": "43.7719",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2300",
+        "population_proper": "2300"
+      },
+      {
+        "city": {
+          "EN": "Pokr Mantash",
+          "RU": "Покр Манташ",
+          "ARM": "Փոքր Մանթաշ"
+        },
+        "lat": "40.6500",
+        "lng": "44.0500",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2249",
+        "population_proper": "2249"
+      },
+      {
+        "city": {
+          "EN": "Amasia",
+          "RU": "Амасия",
+          "ARM": "Ամասիա"
+        },
+        "lat": "40.9467",
+        "lng": "43.7814",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2214",
+        "population_proper": "2214"
+      },
+      {
+        "city": {
+          "EN": "Horom",
+          "RU": "Гором",
+          "ARM": "Հոռոմ"
+        },
+        "lat": "40.6542",
+        "lng": "43.8822",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2166",
+        "population_proper": "2166"
+      },
+      {
+        "city": {
+          "EN": "Anushavan",
+          "RU": "Анушаван",
+          "ARM": "Անուշավան"
+        },
+        "lat": "40.6393",
+        "lng": "43.9685",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2161",
+        "population_proper": "2161"
+      },
+      {
+        "city": {
+          "EN": "Arapi",
+          "RU": "Арапи",
+          "ARM": "Արապի"
+        },
+        "lat": "40.7819",
+        "lng": "43.8069",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2100",
+        "population_proper": "2100"
+      },
+      {
+        "city": {
+          "EN": "Arevshat",
+          "RU": "Аревшат",
+          "ARM": "Արևշատ"
+        },
+        "lat": "40.6486",
+        "lng": "44.0444",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2017",
+        "population_proper": "2017"
+      },
+      {
+        "city": {
+          "EN": "Mayisyan",
+          "RU": "Маисян",
+          "ARM": "Մաիսյան"
+        },
+        "lat": "40.8531",
+        "lng": "43.8294",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "2010",
+        "population_proper": "2010"
+      },
+      {
+        "city": {
+          "EN": "Vahramaberd",
+          "RU": "Ваграмаберд",
+          "ARM": "Վահրամաբերդ"
+        },
+        "lat": "40.8500",
+        "lng": "43.7500",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1888",
+        "population_proper": "1888"
+      },
+      {
+        "city": {
+          "EN": "Basen",
+          "RU": "Басен",
+          "ARM": "Բասեն"
+        },
+        "lat": "40.7653",
+        "lng": "43.9908",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1798",
+        "population_proper": "1798"
+      },
+      {
+        "city": {
+          "EN": "Lerrnagyugh",
+          "RU": "Леррнагьюх",
+          "ARM": "Լեռռնագյուղ"
+        },
+        "lat": "40.9500",
+        "lng": "43.9167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1716",
+        "population_proper": "1716"
+      },
+      {
+        "city": {
+          "EN": "Dzithankov",
+          "RU": "Дзитанков",
+          "ARM": "Ձիթանկով"
+        },
+        "lat": "40.5156",
+        "lng": "43.8133",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1708",
+        "population_proper": "1708"
+      },
+      {
+        "city": {
+          "EN": "Arevik",
+          "RU": "Аревик",
+          "ARM": "Արեվիկ"
+        },
+        "lat": "40.7361",
+        "lng": "43.8928",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1693",
+        "population_proper": "1693"
+      },
+      {
+        "city": {
+          "EN": "Nor Kyank",
+          "RU": "Нор Кянк",
+          "ARM": "Նոր Կյանք"
+        },
+        "lat": "40.6503",
+        "lng": "43.9750",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1690",
+        "population_proper": "1690"
+      },
+      {
+        "city": {
+          "EN": "Yerazgavors",
+          "RU": "Еразгаворс",
+          "ARM": "Երազգավորս"
+        },
+        "lat": "40.7000",
+        "lng": "43.7667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1640",
+        "population_proper": "1640"
+      },
+      {
+        "city": {
+          "EN": "Spandaryan",
+          "RU": "Спандарян",
+          "ARM": "Սպանդարյանը"
+        },
+        "lat": "40.6650",
+        "lng": "44.0189",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1579",
+        "population_proper": "1579"
+      },
+      {
+        "city": {
+          "EN": "Harich",
+          "RU": "Харич",
+          "ARM": "Հառիճ"
+        },
+        "lat": "40.5981",
+        "lng": "44.0075",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1536",
+        "population_proper": "1536"
+      },
+      {
+        "city": {
+          "EN": "Kamo",
+          "RU": "Камо",
+          "ARM": "Կամո"
+        },
+        "lat": "40.8281",
+        "lng": "43.9483",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1536",
+        "population_proper": "1536"
+      },
+      {
+        "city": {
+          "EN": "Haykavan",
+          "RU": "Айкаван",
+          "ARM": "Հայկավան"
+        },
+        "lat": "40.8039",
+        "lng": "43.7528",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1511",
+        "population_proper": "1511"
+      },
+      {
+        "city": {
+          "EN": "Gusanagyugh",
+          "RU": "Гусанагюх",
+          "ARM": "Գուսանագյուղ"
+        },
+        "lat": "40.6692",
+        "lng": "43.7883",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1466",
+        "population_proper": "1466"
+      },
+      {
+        "city": {
+          "EN": "Lerrnakert",
+          "RU": "Леррнакерт",
+          "ARM": "Լեռնակերտ"
+        },
+        "lat": "40.5669",
+        "lng": "43.9361",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1450",
+        "population_proper": "1450"
+      },
+      {
+        "city": {
+          "EN": "Meghrashen",
+          "RU": "Меграшен",
+          "ARM": "Մեղրաշեն"
+        },
+        "lat": "40.6758",
+        "lng": "43.9486",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1424",
+        "population_proper": "1424"
+      },
+      {
+        "city": {
+          "EN": "Ghazanchi",
+          "RU": "Газанчи",
+          "ARM": "Ղազանչի"
+        },
+        "lat": "41.0789",
+        "lng": "43.8217",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1408",
+        "population_proper": "1408"
+      },
+      {
+        "city": {
+          "EN": "Lusaghbyur",
+          "RU": "Лусахбюр",
+          "ARM": "Լուսաղբյուր"
+        },
+        "lat": "40.8653",
+        "lng": "44.0306",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1350",
+        "population_proper": "1350"
+      },
+      {
+        "city": {
+          "EN": "Saratak",
+          "RU": "Саратак",
+          "ARM": "Սարատակ"
+        },
+        "lat": "40.6700",
+        "lng": "43.8664",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1335",
+        "population_proper": "1335"
+      },
+      {
+        "city": {
+          "EN": "Akhurik",
+          "RU": "Ахурик",
+          "ARM": "Ախուրիկ"
+        },
+        "lat": "40.7444",
+        "lng": "43.7736",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1239",
+        "population_proper": "1239"
+      },
+      {
+        "city": {
+          "EN": "Geghanist",
+          "RU": "Геганист",
+          "ARM": "Գեղանիստ"
+        },
+        "lat": "40.6847",
+        "lng": "44.0239",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1213",
+        "population_proper": "1213"
+      },
+      {
+        "city": {
+          "EN": "Mets Sepasar",
+          "RU": "Мец Сепасар",
+          "ARM": "Մեծ Սեպասար"
+        },
+        "lat": "41.0769",
+        "lng": "43.7612",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1161",
+        "population_proper": "1161"
+      },
+      {
+        "city": {
+          "EN": "Gharibjanyan",
+          "RU": "Гарибджанян",
+          "ARM": "Ղարիբջանյանը"
+        },
+        "lat": "40.7461",
+        "lng": "43.7969",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1138",
+        "population_proper": "1138"
+      },
+      {
+        "city": {
+          "EN": "Jajur",
+          "RU": "Джаджур",
+          "ARM": "Ջաջուռ"
+        },
+        "lat": "40.8506",
+        "lng": "43.9481",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1115",
+        "population_proper": "1115"
+      },
+      {
+        "city": {
+          "EN": "Keti",
+          "RU": "Кети",
+          "ARM": "Քեթի"
+        },
+        "lat": "40.8842",
+        "lng": "43.8489",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1099",
+        "population_proper": "1099"
+      },
+      {
+        "city": {
+          "EN": "Kaps",
+          "RU": "Капс",
+          "ARM": "Կապս"
+        },
+        "lat": "40.8667",
+        "lng": "43.7167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1088",
+        "population_proper": "1088"
+      },
+      {
+        "city": {
+          "EN": "Shirak",
+          "RU": "Ширак",
+          "ARM": "Շիրակ"
+        },
+        "lat": "40.8481",
+        "lng": "43.9214",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1067",
+        "population_proper": "1067"
+      },
+      {
+        "city": {
+          "EN": "Isahakyan",
+          "RU": "Исаакян",
+          "ARM": "Իսահակյանը"
+        },
+        "lat": "40.6167",
+        "lng": "43.7253",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1065",
+        "population_proper": "1065"
+      },
+      {
+        "city": {
+          "EN": "Karnut",
+          "RU": "Карнут",
+          "ARM": "Կառնուտ"
+        },
+        "lat": "40.7836",
+        "lng": "43.9542",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1059",
+        "population_proper": "1059"
+      },
+      {
+        "city": {
+          "EN": "Hatsik",
+          "RU": "Хацик",
+          "ARM": "Հացիկ"
+        },
+        "lat": "40.8481",
+        "lng": "43.9214",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1055",
+        "population_proper": "1055"
+      },
+      {
+        "city": {
+          "EN": "Nahapetavan",
+          "RU": "Наапетаван",
+          "ARM": "Նահապետավան"
+        },
+        "lat": "40.6000",
+        "lng": "44.0167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Shirak",
+        "capital": "",
+        "population": "1032",
+        "population_proper": "1032"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province": {
+        "EN": "Lori",
+        "RU": "Лори",
+        "ARM": "Լոռի"
+      },
+      "lat": "40.916667",
+      "lng": "44.5",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Vanadzor",
+      "population": "235537",
+      "population_proper": "235537"
+    },
+    "cities": [
+      {
+        "city": {
+          "EN": "Vanadzor",
+          "RU": "Ванадзор",
+          "ARM": "Վանաձոր"
+        },
+        "lat": "40.8128",
+        "lng": "44.4883",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "admin",
+        "population": "90525",
+        "population_proper": "90525"
+      },
+      {
+        "city": {
+          "EN": "Stepanavan",
+          "RU": "Степанаван",
+          "ARM": "Ստեփանավան"
+        },
+        "lat": "41.0075",
+        "lng": "44.3867",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "23782",
+        "population_proper": "23782"
+      },
+      {
+        "city": {
+          "EN": "Spitak",
+          "RU": "Спитак",
+          "ARM": "Սպիտակ"
+        },
+        "lat": "40.8372",
+        "lng": "44.2675",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "15000",
+        "population_proper": "15000"
+      },
+      {
+        "city": {
+          "EN": "Alaverdi",
+          "RU": "Алаверди",
+          "ARM": "Ալավերդի"
+        },
+        "lat": "41.0950",
+        "lng": "44.6558",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "13000",
+        "population_proper": "13000"
+      },
+      {
+        "city": {
+          "EN": "Tashir",
+          "RU": "Ташир",
+          "ARM": "Տաշիր"
+        },
+        "lat": "41.1144",
+        "lng": "44.2906",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "8700",
+        "population_proper": "8700"
+      },
+      {
+        "city": {
+          "EN": "Metsavan",
+          "RU": "Мецаван",
+          "ARM": "Մեծավան"
+        },
+        "lat": "41.2017",
+        "lng": "44.2289",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "6560",
+        "population_proper": "6560"
+      },
+      {
+        "city": {
+          "EN": "Gugark",
+          "RU": "Гугарк",
+          "ARM": "Գուգարք"
+        },
+        "lat": "40.8072",
+        "lng": "44.5381",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "5665",
+        "population_proper": "5665"
+      },
+      {
+        "city": {
+          "EN": "Odzun",
+          "RU": "Одзун",
+          "ARM": "Օձուն"
+        },
+        "lat": "41.0517",
+        "lng": "44.6153",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "5311",
+        "population_proper": "5311"
+      },
+      {
+        "city": {
+          "EN": "Margahovit",
+          "RU": "Маргаовит",
+          "ARM": "Մարգահովիտ"
+        },
+        "lat": "40.7381",
+        "lng": "44.6875",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "4064",
+        "population_proper": "4064"
+      },
+      {
+        "city": {
+          "EN": "Jrashen",
+          "RU": "Джрашен",
+          "ARM": "Ջրաշեն"
+        },
+        "lat": "40.7875",
+        "lng": "44.1972",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "3529",
+        "population_proper": "3529"
+      },
+      {
+        "city": {
+          "EN": "Arevashogh",
+          "RU": "Аревашох",
+          "ARM": "Արևաշող"
+        },
+        "lat": "40.8592",
+        "lng": "44.2754",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "3054",
+        "population_proper": "3054"
+      },
+      {
+        "city": {
+          "EN":"Akori",
+          "RU":"Акори",
+          "ARM":"Ակորի"
+        },
+        "lat": "41.0922",
+        "lng": "44.6161",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2987",
+        "population_proper": "2987"
+      },
+      {
+        "city": {
+          "EN":"Bagratashen",
+          "RU":"Баграташен",
+          "ARM":"Բագրադաշեն"
+        },
+        "lat": "41.2458",
+        "lng": "44.8211",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2833",
+        "population_proper": "2833"
+      },
+      {
+        "city":  {
+          "EN":"Shnogh",
+          "RU":"Шнох",
+          "ARM":"Շնող"
+        },
+        "lat": "41.1478",
+        "lng": "44.8378",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2826",
+        "population_proper": "2826"
+      },
+      {
+        "city":  {
+          "EN":"Shahumyan",
+          "RU":"Шаумян",
+          "ARM":"Շահումյան"
+        },
+        "lat": "40.7883",
+        "lng": "44.5317",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2759",
+        "population_proper": "2759"
+      },
+      {
+        "city":  {
+          "EN":"Shirakamut",
+          "RU":"Ширакамут",
+          "ARM":"Շիրակամուտ"
+        },
+        "lat": "40.8606",
+        "lng": "44.1528",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2628",
+        "population_proper": "2628"
+      },
+      {
+        "city":  {
+          "EN":"Lernavan",
+          "RU":"Лернаван",
+          "ARM":"Լեռնավան"
+        },
+        "lat": "40.7883",
+        "lng": "44.1844",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2590",
+        "population_proper": "2590"
+      },
+      {
+        "city": {
+          "EN":"Ayrum",
+          "RU":"Айрум",
+          "ARM":"Այրում"
+        },
+        "lat": "41.2000",
+        "lng": "44.9000",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2381",
+        "population_proper": "2381"
+      },
+      {
+        "city":  {
+          "EN":"Gyulagarak",
+          "RU":"Гюлагарак",
+          "ARM":"Գյուլագարակ"
+        },
+        "lat": "40.9655",
+        "lng": "44.4702",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2346",
+        "population_proper": "2346"
+      },
+      {
+        "city":  {
+          "EN":"Mets Parni",
+          "RU":"Мец Парни",
+          "ARM":"Մեծ Պարնի"
+        },
+        "lat": "40.8372",
+        "lng": "44.1092",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2313",
+        "population_proper": "2313"
+      },
+      {
+        "city":  {
+          "EN":"Kurtan",
+          "RU":"Куртан",
+          "ARM":"Կուրտան"
+        },
+        "lat": "40.9619",
+        "lng": "44.5664",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2297",
+        "population_proper": "2297"
+      },
+      {
+        "city":  {
+          "EN":"Privolnoye",
+          "RU":"Привольное",
+          "ARM":"Պրիվոլնոյե"
+        },
+        "lat": "41.1461",
+        "lng": "44.4425",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2154",
+        "population_proper": "2154"
+      },
+      {
+        "city": {
+          "EN":"Dsegh",
+          "RU":"Дсех",
+          "ARM":"Դսեղ"
+        },
+        "lat": "40.9633",
+        "lng": "44.6517",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2149",
+        "population_proper": "2149"
+      },
+      {
+        "city":  {
+          "EN":"Sarchapet",
+          "RU":"Сарчапет",
+          "ARM":"Սարչապետ"
+        },
+        "lat": "41.1992",
+        "lng": "44.3853",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2127",
+        "population_proper": "2127"
+      },
+      {
+        "city":  {
+          "EN":"Lernhovit",
+          "RU":"Лернховит",
+          "ARM":"Լեռնհովիտ"
+        },
+        "lat": "41.1703",
+        "lng": "44.3100",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2110",
+        "population_proper": "2110"
+      },
+      {
+        "city":  {
+          "EN":"Akhtala",
+          "RU":"Ахтала",
+          "ARM":"Ախթալա"
+        },
+        "lat": "41.1503",
+        "lng": "44.7773",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2100",
+        "population_proper": "2100"
+      },
+      {
+        "city":  {
+          "EN":"Norashen",
+          "RU":"Норашен",
+          "ARM":"Նորաշեն"
+        },
+        "lat": "41.1881",
+        "lng": "44.3272",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2014",
+        "population_proper": "2014"
+      },
+      {
+        "city":  {
+          "EN":"Ghursali",
+          "RU":"Гурсали",
+          "ARM":"Ղուրսալի"
+        },
+        "lat": "40.8272",
+        "lng": "44.3436",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "2002",
+        "population_proper": "2002"
+      },
+      {
+        "city":  {
+          "EN":"Katnajur",
+          "RU":"Катнаджур",
+          "ARM":"Կաթնաջուր"
+        },
+        "lat": "40.8300",
+        "lng": "44.1400",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1990",
+        "population_proper": "1990"
+      },
+      {
+        "city":  {
+          "EN":"Vahagni",
+          "RU":"Ваагни",
+          "ARM":"Վահագնի"
+        },
+        "lat": "40.9081",
+        "lng": "44.6069",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1970",
+        "population_proper": "1970"
+      },
+      {
+        "city": {
+          "EN":"Sarahart",
+          "RU":"Сарахарт",
+          "ARM":"Սարահարթ"
+        },
+        "lat": "40.8739",
+        "lng": "44.2097",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1928",
+        "population_proper": "1928"
+      },
+      {
+        "city":  {
+          "EN":"Darpas",
+          "RU":"Дарпас",
+          "ARM":"Դարպաս"
+        },
+        "lat": "40.8381",
+        "lng": "44.4233",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1869",
+        "population_proper": "1869"
+      },
+      {
+        "city":  {
+          "EN":"Nor Khachakap",
+          "RU":"Нор Хачакап",
+          "ARM":"Նոր Խաչակապ"
+        },
+        "lat": "40.8425",
+        "lng": "44.3625",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1826",
+        "population_proper": "1826"
+      },
+      {
+        "city":  {
+          "EN":"Tsaghkaber",
+          "RU":"Цахкабер",
+          "ARM":"Ծաղկաբեր"
+        },
+        "lat": "40.7986",
+        "lng": "44.1072",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1732",
+        "population_proper": "1732"
+      },
+      {
+        "city":  {
+          "EN":"Hartagyugh",
+          "RU":"Хартагьюх",
+          "ARM":"Հարթագյուղ"
+        },
+        "lat": "40.8356",
+        "lng": "44.0467",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1722",
+        "population_proper": "1722"
+      },
+      {
+        "city":  {
+          "EN":"Chochkan",
+          "RU":"Чочкан",
+          "ARM":"Ճոճկան"
+        },
+        "lat": "41.1861",
+        "lng": "44.8314",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1654",
+        "population_proper": "1654"
+      },
+      {
+        "city": {
+          "EN":"Dzoragyugh",
+          "RU":"Дзорагюх",
+          "ARM":"Ձորագյուղ"
+        },
+        "lat": "40.9485",
+        "lng": "44.6182",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1636",
+        "population_proper": "1636"
+      },
+      {
+        "city":  {
+          "EN":"Katnaghbyur",
+          "RU":"Катнахпюр",
+          "ARM":"Կաթնաղբյուր"
+        },
+        "lat": "41.0375",
+        "lng": "44.2203",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1635",
+        "population_proper": "1635"
+      },
+      {
+        "city": {
+          "EN":"Tumanyan",
+          "RU":"Туманян",
+          "ARM":"Թումանյան"
+        },
+        "lat": "41.0028",
+        "lng": "44.6483",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1600",
+        "population_proper": "1600"
+      },
+      {
+        "city": {
+          "EN":"Saramej",
+          "RU":"Сарамеч",
+          "ARM":"Սարամեջ"
+        },
+        "lat": "40.7725",
+        "lng": "44.2192",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1590",
+        "population_proper": "1590"
+      },
+      {
+        "city":  {
+          "EN":"Agarak",
+          "RU":"Агарак",
+          "ARM":"Ագարակ"
+        },
+        "lat": "41.0106",
+        "lng": "44.4675",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1581",
+        "population_proper": "1581"
+      },
+      {
+        "city": {
+          "EN":"Sverdlov",
+          "RU":"Свердлов",
+          "ARM":"Սվերդլով"
+        },
+        "lat": "41.0972",
+        "lng": "44.4008",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1497",
+        "population_proper": "1497"
+      },
+      {
+        "city":  {
+          "EN":"Gogaran",
+          "RU":"Гогаран",
+          "ARM":"Գոգարան"
+        },
+        "lat": "40.8956",
+        "lng": "44.1992",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1472",
+        "population_proper": "1472"
+      },
+      {
+        "city":  {
+          "EN":"Fioletovo",
+          "RU":"Фиолетово",
+          "ARM":"Ֆիոլետովո"
+        },
+        "lat": "40.7247",
+        "lng": "44.7139",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1383",
+        "population_proper": "1383"
+      },
+      {
+        "city":  {
+          "EN":"Lorut",
+          "RU":"Лорут",
+          "ARM":"Լորուտ"
+        },
+        "lat": "40.9389",
+        "lng": "44.7725",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1367",
+        "population_proper": "1367"
+      },
+      {
+        "city": {
+          "EN":"Gargar",
+          "RU":"Гаргар",
+          "ARM":"Գարգար"
+        },
+        "lat": "40.9569",
+        "lng": "44.4428",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1318",
+        "population_proper": "1318"
+      },
+      {
+        "city":  {
+          "EN":"Bazum",
+          "RU":"Базум",
+          "ARM":"Բազում"
+        },
+        "lat": "40.8681",
+        "lng": "44.4456",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1285",
+        "population_proper": "1285"
+      },
+      {
+        "city": {
+          "EN":"Debet",
+          "RU":"Дебет",
+          "ARM":"Դեբետ"
+        },
+        "lat": "40.9175",
+        "lng": "44.6492",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1271",
+        "population_proper": "1271"
+      },
+      {
+        "city": {
+          "EN":"Jrarat",
+          "RU":"Джрарат",
+          "ARM":"Ջրառատ"
+        },
+        "lat": "40.7461",
+        "lng": "44.0883",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1230",
+        "population_proper": "1230"
+      },
+      {
+        "city": {
+          "EN":"Dzoraget",
+          "RU":"Дзорагет",
+          "ARM":"Ձորագետ"
+        },
+        "lat": "40.9333",
+        "lng": "44.5667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1200",
+        "population_proper": "1200"
+      },
+      {
+        "city":  {
+          "EN":"Vardablur",
+          "RU":"Вардаблур",
+          "ARM":"Վարդաբլուր"
+        },
+        "lat": "40.9708",
+        "lng": "44.5089",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1178",
+        "population_proper": "1178"
+      },
+      {
+        "city":  {
+          "EN":"Berkarat",
+          "RU":"Беркарат",
+          "ARM":"Բերքառատ"
+        },
+        "lat": "40.6814",
+        "lng": "44.1689",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1131",
+        "population_proper": "1131"
+      },
+      {
+        "city":  {
+        "EN":"Lernapar",
+        "RU":"Лернапар",
+        "ARM":"Լեռնապար"
+      },
+        "lat": "40.7486",
+        "lng": "44.1606",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1092",
+        "population_proper": "1092"
+      },
+      {
+        "city":  {
+          "EN":"Aznvadzor",
+          "RU":"Азнвадзор",
+          "ARM":"Ազնվաձոր"
+        },
+        "lat": "40.8769",
+        "lng": "44.4169",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1091",
+        "population_proper": "1091"
+      },
+      {
+        "city":  {
+          "EN":"Karinj",
+          "RU":"Каринч",
+          "ARM":"Քարինջ"
+        },
+        "lat": "40.9733",
+        "lng": "44.6886",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1086",
+        "population_proper": "1086"
+      },
+      {
+        "city": {
+          "EN":"Marts",
+          "RU":"Марц",
+          "ARM":"Մարց"
+        },
+        "lat": "40.9569",
+        "lng": "44.7044",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1037",
+        "population_proper": "1037"
+      },
+      {
+        "city":  {
+          "EN":"Arevatsag",
+          "RU":"Аревацаг",
+          "ARM":"Արևածագ"
+        },
+        "lat": "40.9739",
+        "lng": "44.6106",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Lorri",
+        "capital": "",
+        "population": "1029",
+        "population_proper": "1029"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province":  {
+        "EN":"Armavir",
+        "RU":"Армавир",
+        "ARM":"Արմավիր"
+      },
+      "lat": "40.15",
+      "lng": "44.05",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Ejmiatsin",
+      "population": "265770",
+      "population_proper": "265770"
+    },
+    "cities": [
+      {
+        "city": {
+          "EN":"Ejmiatsin",
+          "RU":"Эчмиадзин",
+          "ARM":"Էջմիածին"
+        },
+        "lat": "40.1728",
+        "lng": "44.2925",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "57500",
+        "population_proper": "57500"
+      },
+      {
+        "city":  {
+          "EN":"Metsamor",
+          "RU":"Мецамор",
+          "ARM":"Մեծամոր"
+        },
+        "lat": "40.1428",
+        "lng": "44.1164",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "9870",
+        "population_proper": "9870"
+      },
+      {
+        "city":  {
+          "EN":"Parakar",
+          "RU":"Паракар",
+          "ARM":"Փարաքար"
+        },
+        "lat": "40.1639",
+        "lng": "44.4058",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "8970",
+        "population_proper": "8970"
+      },
+      {
+        "city": {
+          "EN":"Sardarapat",
+          "RU":"Сардарапат",
+          "ARM":"Սարդարապատ"
+        },
+        "lat": "40.1321",
+        "lng": "44.0097",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "6275",
+        "population_proper": "6275"
+      },
+      {
+        "city":  {
+          "EN":"Mrgashat",
+          "RU":"Мргашат",
+          "ARM":"Մրգաշատ"
+        },
+        "lat": "40.1297",
+        "lng": "44.0706",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "5867",
+        "population_proper": "5867"
+      },
+      {
+        "city":  {
+          "EN":"Nalbandyan",
+          "RU":"Налбандян",
+          "ARM":"Նալբանդյան"
+        },
+        "lat": "40.0678",
+        "lng": "43.9856",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "5078",
+        "population_proper": "5078"
+      },
+      {
+        "city":  {
+          "EN":"Karakert",
+          "RU":"Каракерт",
+          "ARM":"Քարակերտ"
+        },
+        "lat": "40.2403",
+        "lng": "43.8097",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "4641",
+        "population_proper": "4641"
+      },
+      {
+        "city": {
+          "EN":"Myasnikyan",
+          "RU":"Мясникян",
+          "ARM":"Մյասնիկյան"
+        },
+        "lat": "40.1775",
+        "lng": "43.9064",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "4350",
+        "population_proper": "4350"
+      },
+      {
+        "city":  {
+          "EN":"Dalarik",
+          "RU":"Даларик",
+          "ARM":"Դալարիկ"
+        },
+        "lat": "40.2183",
+        "lng": "43.8603",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "4345",
+        "population_proper": "4345"
+      },
+      {
+        "city":  {
+          "EN":"Arshaluys",
+          "RU":"Аршалуйс",
+          "ARM":"Արշալույս"
+        },
+        "lat": "40.1689",
+        "lng": "44.2142",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "4136",
+        "population_proper": "4136"
+      },
+      {
+        "city": {
+          "EN":"Bambakashat",
+          "RU":"Бамбакашат",
+          "ARM":"Բամբակաշատ"
+        },
+        "lat": "40.1144",
+        "lng": "44.0122",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3680",
+        "population_proper": "3680"
+      },
+      {
+        "city":  {
+          "EN":"Voskehat",
+          "RU":"Воскеат",
+          "ARM":"Ոսկեհատ"
+        },
+        "lat": "40.1414",
+        "lng": "44.3292",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3635",
+        "population_proper": "3635"
+      },
+      {
+        "city": {
+          "EN":"Jrarat",
+          "RU":"Джрарат",
+          "ARM":"Ջրառատ"
+        },
+        "lat": "40.0714",
+        "lng": "44.2631",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3458",
+        "population_proper": "3458"
+      },
+      {
+        "city": {
+          "EN":"Aragats",
+          "RU":"Арагац",
+          "ARM":"Արագած"
+        },
+        "lat": "40.2183",
+        "lng": "44.2328",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3300",
+        "population_proper": "3300"
+      },
+      {
+        "city": {
+          "EN":"Norapat",
+          "RU":"Норапат",
+          "ARM":"Նորապատ"
+        },
+        "lat": "40.1333",
+        "lng": "44.0167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3250",
+        "population_proper": "3250"
+      },
+      {
+        "city":  {
+          "EN":"Aghavnatun",
+          "RU":"Агавнатун",
+          "ARM":"Աղավնատուն"
+        },
+        "lat": "40.2333",
+        "lng": "44.2514",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3200",
+        "population_proper": "3200"
+      },
+      {
+        "city":  {
+          "EN":"Janfida",
+          "RU":"Джанфида",
+          "ARM":"Ջանֆիդա"
+        },
+        "lat": "40.0456",
+        "lng": "44.0208",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3150",
+        "population_proper": "3150"
+      },
+      {
+        "city":  {
+          "EN":"Norakert",
+          "RU":"Норакерт",
+          "ARM":"Նորակերտ"
+        },
+        "lat": "40.1922",
+        "lng": "44.3467",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3136",
+        "population_proper": "3136"
+      },
+      {
+        "city":  {
+          "EN":"Musalerr",
+          "RU":"Мусалерр",
+          "ARM":"Մուսալեռ"
+        },
+        "lat": "40.1544",
+        "lng": "44.3778",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3114",
+        "population_proper": "3114"
+      },
+      {
+        "city":  {
+          "EN":"Aratashen",
+          "RU":"Араташен",
+          "ARM":"Առատաշեն"
+        },
+        "lat": "40.1286",
+        "lng": "44.2275",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "3010",
+        "population_proper": "3010"
+      },
+      {
+        "city":  {
+          "EN":"Zartonk",
+          "RU":"Зартонк",
+          "ARM":"Զարթոնք"
+        },
+        "lat": "40.1092",
+        "lng": "44.1606",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2988",
+        "population_proper": "2988"
+      },
+      {
+        "city":  {
+          "EN":"Merdzavan",
+          "RU":"Мердзаван",
+          "ARM":"Մերձավան"
+        },
+        "lat": "40.1797",
+        "lng": "44.3997",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2935",
+        "population_proper": "2935"
+      },
+      {
+        "city":  {
+          "EN":"Aknalich",
+          "RU":"Акналич",
+          "ARM":"Ակնալիճ"
+        },
+        "lat": "40.2333",
+        "lng": "44.2500",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2900",
+        "population_proper": "2900"
+      },
+      {
+        "city":  {
+          "EN":"Lukashin",
+          "RU":"Лукашин",
+          "ARM":"Լուկաշին"
+        },
+        "lat": "40.1758",
+        "lng": "44.0186",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2830",
+        "population_proper": "2830"
+      },
+      {
+        "city": {
+          "EN":"Haytagh",
+          "RU":"Хайтаг",
+          "ARM":"Հայթաղ"
+        },
+        "lat": "40.1808",
+        "lng": "44.2297",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2703",
+        "population_proper": "2703"
+      },
+      {
+        "city":  {
+          "EN":"Arevik",
+          "RU":"Аревик",
+          "ARM":"Արեվիկ"
+        },
+        "lat": "40.1006",
+        "lng": "44.0969",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2686",
+        "population_proper": "2686"
+      },
+      {
+        "city": {
+          "EN":"Khoronk",
+          "RU":"Хоронк",
+          "ARM":"Խորոնք"
+        },
+        "lat": "40.1358",
+        "lng": "44.2444",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2629",
+        "population_proper": "2629"
+      },
+      {
+        "city": {
+          "EN":"Baghramyan",
+          "RU":"Баграмян",
+          "ARM":"Բաղրամյան"
+        },
+        "lat": "40.1933",
+        "lng": "44.3686",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2548",
+        "population_proper": "2548"
+      },
+      {
+        "city": {
+          "EN":"Pshatavan",
+          "RU":"Пшатаван",
+          "ARM":"Փշատավան"
+        },
+        "lat": "40.0406",
+        "lng": "44.0675",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2546",
+        "population_proper": "2546"
+      },
+      {
+        "city":  {
+          "EN":"Geghakert",
+          "RU":"Гегакерт",
+          "ARM":"Գեղակերտ"
+        },
+        "lat": "40.1853",
+        "lng": "44.2433",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2545",
+        "population_proper": "2545"
+      },
+      {
+        "city": {
+          "EN":"Geghanist",
+          "RU":"Геганист",
+          "ARM":"Գեղանիստ"
+        },
+        "lat": "40.1497",
+        "lng": "44.4344",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2471",
+        "population_proper": "2471"
+      },
+      {
+        "city":  {
+          "EN":"Argavand",
+          "RU":"Аргаванд",
+          "ARM":"Արգավանդ"
+        },
+        "lat": "40.0608",
+        "lng": "44.0953",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2365",
+        "population_proper": "2365"
+      },
+      {
+        "city":  {
+          "EN":"Getashen",
+          "RU":"Геташен",
+          "ARM":"Գետաշեն"
+        },
+        "lat": "40.0433",
+        "lng": "43.9447",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2205",
+        "population_proper": "2205"
+      },
+      {
+        "city":  {
+          "EN":"Taronik",
+          "RU":"Тароник",
+          "ARM":"Տարոնիկ"
+        },
+        "lat": "40.1331",
+        "lng": "44.1992",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2201",
+        "population_proper": "2201"
+      },
+      {
+        "city":  {
+          "EN":"Shenavan",
+          "RU":"Шенаван",
+          "ARM":"Շենավան"
+        },
+        "lat": "40.0500",
+        "lng": "43.9333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2156",
+        "population_proper": "2156"
+      },
+      {
+        "city": {
+          "EN":"Griboyedov",
+          "RU":"Грибоедов",
+          "ARM":"Գրիբոյեդով"
+        },
+        "lat": "40.1131",
+        "lng": "44.2717",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2104",
+        "population_proper": "2104"
+      },
+      {
+        "city":  {
+          "EN":"Yeghegnut",
+          "RU":"Егегнут",
+          "ARM":"Եղեգնուտ"
+        },
+        "lat": "40.0903",
+        "lng": "44.1625",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2031",
+        "population_proper": "2031"
+      },
+      {
+        "city": {
+          "EN":"Tandzut",
+          "RU":"Тандзут",
+          "ARM":"Տանձուտ"
+        },
+        "lat": "40.0772",
+        "lng": "44.0886",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "2016",
+        "population_proper": "2016"
+      },
+      {
+        "city":  {
+          "EN":"Khanjyan",
+          "RU":"Ханджян",
+          "ARM":"Խանջյան"
+        },
+        "lat": "40.1667",
+        "lng": "44.0333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1993",
+        "population_proper": "1993"
+      },
+      {
+        "city": {
+          "EN":"Nor Armavir",
+          "RU":"Нор Армавир'",
+          "ARM":"Նոր Արմավիր"
+        },
+        "lat": "40.0867",
+        "lng": "43.9900",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1936",
+        "population_proper": "1936"
+      },
+      {
+        "city":  {
+          "EN":"Nor Artagers",
+          "RU":"Нор Артагерс",
+          "ARM":"Նոր Արտագերս"
+        },
+        "lat": "40.0667",
+        "lng": "44.0000",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1840",
+        "population_proper": "1840"
+      },
+      {
+        "city":  {
+          "EN":"Ptghunk",
+          "RU":"Птгунк",
+          "ARM":"Պտղունք"
+        },
+        "lat": "40.1644",
+        "lng": "44.3636",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1755",
+        "population_proper": "1755"
+      },
+      {
+        "city": {
+          "EN":"Aygeshat",
+          "RU":"Айгешат",
+          "ARM":"Այգեշատ"
+        },
+        "lat": "40.0667",
+        "lng": "44.0667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1754",
+        "population_proper": "1754"
+      },
+      {
+        "city":  {
+          "EN":"Apaga",
+          "RU":"Апага",
+          "ARM":"Ապագա"
+        },
+        "lat": "40.0961",
+        "lng": "44.2511",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1700",
+        "population_proper": "1700"
+      },
+      {
+        "city":  {
+          "EN":"Noravan",
+          "RU":"Нораван",
+          "ARM":"Նորավան"
+        },
+        "lat": "40.1667",
+        "lng": "44.0333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1700",
+        "population_proper": "1700"
+      },
+      {
+        "city": {
+          "EN":"Yeraskhahun",
+          "RU":"Ерасхахун",
+          "ARM":"Երասխահուն"
+        },
+        "lat": "40.0722",
+        "lng": "44.2158",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1679",
+        "population_proper": "1679"
+      },
+      {
+        "city": {
+          "EN":"Lenughi",
+          "RU":"Ленуги",
+          "ARM":"Լենուղի"
+        },
+        "lat": "40.1239",
+        "lng": "43.9653",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1669",
+        "population_proper": "1669"
+      },
+      {
+        "city":  {
+          "EN":"Mayisyan",
+          "RU":"Маисян",
+          "ARM":"Մաիսյան"
+        },
+        "lat": "40.1617",
+        "lng": "44.0883",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1653",
+        "population_proper": "1653"
+      },
+      {
+        "city":  {
+          "EN":"Araks",
+          "RU":"Аракс",
+          "ARM":"Արաքս"
+        },
+        "lat": "40.0981",
+        "lng": "43.9528",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1607",
+        "population_proper": "1607"
+      },
+      {
+        "city":  {
+          "EN":"Artimet",
+          "RU":"Артимет",
+          "ARM":"Արտիմետ"
+        },
+        "lat": "40.1514",
+        "lng": "44.2664",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1600",
+        "population_proper": "1600"
+      },
+      {
+        "city":  {
+          "EN":"Haykavan",
+          "RU":"Айкаван",
+          "ARM":"Հայկավան"
+        },
+        "lat": "40.0833",
+        "lng": "44.0500",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1550",
+        "population_proper": "1550"
+      },
+      {
+        "city": {
+          "EN":"Arbat",
+          "RU":"Арбат",
+          "ARM":"Արբաթ"
+        },
+        "lat": "40.1369",
+        "lng": "44.3983",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1549",
+        "population_proper": "1549"
+      },
+      {
+        "city":  {
+          "EN":"Tsaghkalanj",
+          "RU":"Цахкаландж",
+          "ARM":"Ծաղկալանջ"
+        },
+        "lat": "40.2000",
+        "lng": "44.2275",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1539",
+        "population_proper": "1539"
+      },
+      {
+        "city": {
+          "EN":"Mrgastan",
+          "RU":"Мргастан",
+          "ARM":"Մրգաստան"
+        },
+        "lat": "40.2008",
+        "lng": "44.2772",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1494",
+        "population_proper": "1494"
+      },
+      {
+        "city": {
+          "EN":"Margara",
+          "RU":"Маргара",
+          "ARM":"Մարգարա"
+        },
+        "lat": "40.0336",
+        "lng": "44.1739",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1468",
+        "population_proper": "1468"
+      },
+      {
+        "city":  {
+          "EN":"Haykashen",
+          "RU":"Айкашен",
+          "ARM":"Հայկաշեն"
+        },
+        "lat": "40.0728",
+        "lng": "44.3069",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1457",
+        "population_proper": "1457"
+      },
+      {
+        "city": {
+          "EN":"Shahumyan",
+          "RU":"Шаумян",
+          "ARM":"Շահումյան"
+        },
+        "lat": "40.2133",
+        "lng": "44.2967",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Armavir",
+        "capital": "",
+        "population": "1451",
+        "population_proper": "1451"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province":  {
+        "EN":"Kotayk",
+        "RU":"Котайк",
+        "ARM":"Կոտայք"
+      },
+      "lat": "40.416667",
+      "lng": "44.75",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Hrazdan",
+      "population": "254397",
+      "population_proper": "254397"
+    },
+    "cities": [
+      {
+        "city": {
+          "EN":"Hrazdan",
+          "RU":"Раздан",
+          "ARM":"Հրազդան"
+        },
+        "lat": "40.5000",
+        "lng": "44.7667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "admin",
+        "population": "52808",
+        "population_proper": "52808"
+      },
+      {
+        "city":  {
+          "EN":"Abovyan",
+          "RU":"Абовян",
+          "ARM":"Աբովյան"
+        },
+        "lat": "40.2739",
+        "lng": "44.6256",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "44400",
+        "population_proper": "44400"
+      },
+      {
+        "city": {
+          "EN":"Charentsavan",
+          "RU":"Чаренцаван",
+          "ARM":"Չարենցավան"
+        },
+        "lat": "40.4097",
+        "lng": "44.6431",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "25039",
+        "population_proper": "25039"
+      },
+      {
+        "city":  {
+          "EN":"Yeghvard",
+          "RU":"Егвард",
+          "ARM":"Եղավարդ"
+        },
+        "lat": "40.3167",
+        "lng": "44.4833",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "10656",
+        "population_proper": "10656"
+      },
+      {
+        "city":  {
+          "EN":"Nor Hachn",
+          "RU":"Нор Хачн",
+          "ARM":"Նոր Հաճն"
+        },
+        "lat": "40.3000",
+        "lng": "44.5800",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "10198",
+        "population_proper": "10198"
+      },
+      {
+        "city":  {
+          "EN":"Byureghavan",
+          "RU":"Бюрегаван",
+          "ARM":"Բյուրեղավան"
+        },
+        "lat": "40.3147",
+        "lng": "44.5936",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "8500",
+        "population_proper": "8500"
+      },
+      {
+        "city":  {
+          "EN":"Garrni",
+          "RU":"Гарни",
+          "ARM":"Գարնի"
+        },
+        "lat": "40.1194",
+        "lng": "44.7231",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "8111",
+        "population_proper": "8111"
+      },
+      {
+        "city":  {
+          "EN":"Nor Geghi",
+          "RU":"Нор Гехи",
+          "ARM":"Նոր Գեղի"
+        },
+        "lat": "40.3211",
+        "lng": "44.5797",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "6162",
+        "population_proper": "6162"
+      },
+      {
+        "city": {
+          "EN":"Arrinj",
+          "RU":"Арриндж",
+          "ARM":"Առինջ"
+        },
+        "lat": "40.2314",
+        "lng": "44.5711",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "5670",
+        "population_proper": "5670"
+      },
+      {
+        "city": {
+          "EN":"Arzakan",
+          "RU":"Арзакан",
+          "ARM":"Արզական"
+        },
+        "lat": "40.4494",
+        "lng": "44.6064",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "5343",
+        "population_proper": "5343"
+      },
+      {
+        "city":  {
+          "EN":"Prroshyan",
+          "RU":"Пррошян",
+          "ARM":"Պռոշյան"
+        },
+        "lat": "40.2472",
+        "lng": "44.4194",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "5189",
+        "population_proper": "5189"
+      },
+      {
+        "city":  {
+          "EN":"Geghashen",
+          "RU":"Гегашен",
+          "ARM":"Գեղաշեն"
+        },
+        "lat": "40.2344",
+        "lng": "44.7269",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "4176",
+        "population_proper": "4176"
+      },
+      {
+        "city": {
+          "EN":"Balahovit",
+          "RU":"Балаовит",
+          "ARM":"Բալահովիտ"
+        },
+        "lat": "40.2536",
+        "lng": "44.6039",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "3869",
+        "population_proper": "3869"
+      },
+      {
+        "city":  {
+          "EN":"Argel",
+          "RU":"Аргел",
+          "ARM":"Արգել"
+        },
+        "lat": "40.3794",
+        "lng": "44.5994",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "3500",
+        "population_proper": "3500"
+      },
+      {
+        "city": {
+          "EN":"Bjni",
+          "RU":"Бжни",
+          "ARM":"Բջնի"
+        },
+        "lat": "40.4594",
+        "lng": "44.6486",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "3100",
+        "population_proper": "3100"
+      },
+      {
+        "city":  {
+          "EN":"Meghradzor",
+          "RU":"Меградзор",
+          "ARM":"Մեղրաձոր"
+        },
+        "lat": "40.6147",
+        "lng": "44.6497",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2900",
+        "population_proper": "2900"
+      },
+      {
+        "city":  {
+          "EN":"Alapars",
+          "RU":"Алапарс",
+          "ARM":"Ալափարս"
+        },
+        "lat": "40.4222",
+        "lng": "44.6336",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2881",
+        "population_proper": "2881"
+      },
+      {
+        "city":  {
+          "EN":"Lerrnanist",
+          "RU":"Леррнанист",
+          "ARM":"Լեռնանիստ"
+        },
+        "lat": "40.4675",
+        "lng": "44.7981",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2877",
+        "population_proper": "2877"
+      },
+      {
+        "city":  {
+          "EN":"Solak",
+          "RU":"Солак",
+          "ARM":"Սոլակ"
+        },
+        "lat": "40.4636",
+        "lng": "44.7086",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2548",
+        "population_proper": "2548"
+      },
+      {
+        "city":  {
+          "EN":"Kamaris",
+          "RU":"Камарис",
+          "ARM":"Կամարիս"
+        },
+        "lat": "40.2358",
+        "lng": "44.6939",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2518",
+        "population_proper": "2518"
+      },
+      {
+        "city":  {
+          "EN":"Kaghsi",
+          "RU":"Кагси",
+          "ARM":"Կաղսի"
+        },
+        "lat": "40.4806",
+        "lng": "44.7411",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2371",
+        "population_proper": "2371"
+      },
+      {
+        "city":  {
+          "EN":"Arzni",
+          "RU":"Арзни",
+          "ARM":"Արզնի"
+        },
+        "lat": "40.2964",
+        "lng": "44.5958",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2281",
+        "population_proper": "2281"
+      },
+      {
+        "city":  {
+          "EN":"Dzoraghbyur",
+          "RU":"Дзорахбюр",
+          "ARM":"Ձորաղբյուր"
+        },
+        "lat": "40.2050",
+        "lng": "44.6431",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2270",
+        "population_proper": "2270"
+      },
+      {
+        "city":  {
+          "EN":"Mayakovski",
+          "RU":"Маяковский",
+          "ARM":"Մայակովսկի"
+        },
+        "lat": "40.2522",
+        "lng": "44.6383",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2143",
+        "population_proper": "2143"
+      },
+      {
+        "city":  {
+          "EN":"Mrgashen",
+          "RU":"Мргашен",
+          "ARM":"Մրգաշեն"
+        },
+        "lat": "40.2850",
+        "lng": "44.5422",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "2035",
+        "population_proper": "2035"
+      },
+      {
+        "city": {
+          "EN":"Goght",
+          "RU":"Гохт",
+          "ARM":"Գողտ"
+        },
+        "lat": "40.1394",
+        "lng": "44.7794",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1983",
+        "population_proper": "1983"
+      },
+      {
+        "city":  {
+          "EN":"Akunk",
+          "RU":"Akunk",
+          "ARM":"Ակունք"
+        },
+        "lat": "40.2692",
+        "lng": "44.6836",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1957",
+        "population_proper": "1957"
+      },
+      {
+        "city":  {
+          "EN":"Kotayk",
+          "RU":"Котайк",
+          "ARM":"Կոտայք"
+        },
+        "lat": "40.2750",
+        "lng": "44.6606",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1861",
+        "population_proper": "1861"
+      },
+      {
+        "city": {
+          "EN":"Nor Gyugh",
+          "RU":"Нор Гюх",
+          "ARM":"Նոր Գյուղ"
+        },
+        "lat": "40.2667",
+        "lng": "44.6564",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1853",
+        "population_proper": "1853"
+      },
+      {
+        "city": {
+          "EN":"Buzhakan",
+          "RU":"Бужакан",
+          "ARM":"Բուժական"
+        },
+        "lat": "40.4553",
+        "lng": "44.5206",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1763",
+        "population_proper": "1763"
+      },
+      {
+        "city":  {
+          "EN":"Zovaber",
+          "RU":"Зовабер",
+          "ARM":"Զովաբեր"
+        },
+        "lat": "40.5736",
+        "lng": "44.7864",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1660",
+        "population_proper": "1660"
+      },
+      {
+        "city":  {
+          "EN":"Zoravan",
+          "RU":"Зораван",
+          "ARM":"Զորավան"
+        },
+        "lat": "40.3569",
+        "lng": "44.5231",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1583",
+        "population_proper": "1583"
+      },
+      {
+        "city":  {
+          "EN":"Ptghni",
+          "RU":"Птгни",
+          "ARM":"Պտղնի"
+        },
+        "lat": "40.2567",
+        "lng": "44.5850",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1572",
+        "population_proper": "1572"
+      },
+      {
+        "city":  {
+          "EN":"Zarr",
+          "RU":"Зарр",
+          "ARM":"Զարր"
+        },
+        "lat": "40.2611",
+        "lng": "44.7361",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1386",
+        "population_proper": "1386"
+      },
+      {
+        "city":  {
+          "EN":"Verin Ptghni",
+          "RU":"ВеринПтгни",
+          "ARM":"Վերին Պտղնի"
+        },
+        "lat": "40.2703",
+        "lng": "44.6011",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1280",
+        "population_proper": "1280"
+      },
+
+      {
+        "city":  {
+          "EN":"Tsaghkadzor",
+          "RU":"Цахкадзор",
+          "ARM":"Ծաղկաձոր"
+        },
+        "lat": "40.5333",
+        "lng": "44.7206",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1200",
+        "population_proper": "1200"
+      },
+      {
+        "city":  {
+          "EN":"Nor Artamet",
+          "RU":"Нор Артамет",
+          "ARM":"Նոր Արտամետ"
+        },
+        "lat": "40.2989",
+        "lng": "44.5542",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1120",
+        "population_proper": "1120"
+      },
+      {
+        "city":  {
+          "EN":"Voghjaberd",
+          "RU":"Вохьяберд",
+          "ARM":"Ողջաբերտ"
+        },
+        "lat": "40.1664",
+        "lng": "44.6483",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1114",
+        "population_proper": "1114"
+      },
+      {
+        "city":  {
+          "EN":"Hatis",
+          "RU":"Атис",
+          "ARM":"Հատիս"
+        },
+        "lat": "40.3406",
+        "lng": "44.7297",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1077",
+        "population_proper": "1077"
+      },
+      {
+        "city":  {
+          "EN":"Aragyugh",
+          "RU":"Арагюх",
+          "ARM":"Արագյուղ"
+        },
+        "lat": "40.4025",
+        "lng": "44.5436",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1041",
+        "population_proper": "1041"
+      },
+      {
+        "city":  {
+          "EN":"Saralanj",
+          "RU":"Сараландж",
+          "ARM":"Սարալանջ"
+        },
+        "lat": "40.3997",
+        "lng": "44.5186",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Kotayk",
+        "capital": "",
+        "population": "1011",
+        "population_proper": "1011"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province":  {
+        "EN":"Syunik",
+        "RU":"Сюник",
+        "ARM":"Սյունիք"
+      },
+      "lat": "39.25",
+      "lng": "46.25",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Kapan",
+      "population": "141771",
+      "population_proper": "141771"
+    },
+    "cities": [
+      {
+        "city":  {
+          "EN":"Kapan",
+          "RU":"Капан",
+          "ARM":"Կապան"
+        },
+        "lat": "39.2011",
+        "lng": "46.4150",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "admin",
+        "population": "43190",
+        "population_proper": "43190"
+      },
+      {
+        "city":  {
+          "EN":"Goris",
+          "RU":"Горис",
+          "ARM":"Գորիս"
+        },
+        "lat": "39.5111",
+        "lng": "46.3417",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "20591",
+        "population_proper": "20591"
+      },
+      {
+        "city": {
+          "EN":"Sisian",
+          "RU":"Сисиан",
+          "ARM":"Սիսիան"
+        },
+        "lat": "39.5208",
+        "lng": "46.0322",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "14894",
+        "population_proper": "14894"
+      },
+      {
+        "city":  {
+          "EN":"Kajaran",
+          "RU":"Каджаран",
+          "ARM":"Քաջարան"
+        },
+        "lat": "39.1511",
+        "lng": "46.1600",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "7163",
+        "population_proper": "7163"
+      },
+      {
+        "city":  {
+          "EN":"Meghri",
+          "RU":"Мегри",
+          "ARM":"Մեղրի"
+        },
+        "lat": "38.9000",
+        "lng": "46.2333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "4580",
+        "population_proper": "4580"
+      },
+      {
+        "city":  {
+          "EN":"Agarak",
+          "RU":"Агарак",
+          "ARM":"Ագարակ"
+        },
+        "lat": "38.8667",
+        "lng": "46.2000",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "4300",
+        "population_proper": "4300"
+      },
+      {
+        "city":  {
+          "EN":"Tegh",
+          "RU":"Тех",
+          "ARM":"Տեղ"
+        },
+        "lat": "39.5547",
+        "lng": "46.4758",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "2520",
+        "population_proper": "2520"
+      },
+      {
+        "city":  {
+          "EN":"Shinuhayr",
+          "RU":"Шинуайр",
+          "ARM":"Շինուհայր"
+        },
+        "lat": "39.4342",
+        "lng": "46.3156",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "2404",
+        "population_proper": "2404"
+      },
+      {
+        "city": {
+          "EN":"Verishen",
+          "RU":"Веришен",
+          "ARM":"Վերիշեն"
+        },
+        "lat": "39.5358",
+        "lng": "46.3119",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "2385",
+        "population_proper": "2385"
+      },
+      {
+        "city":  {
+          "EN":"Khndzoresk",
+          "RU":"Ереван",
+          "ARM":"Խնձորեսկ"
+        },
+        "lat": "39.5122",
+        "lng": "46.4336",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "2027",
+        "population_proper": "2027"
+      },
+      {
+        "city":  {
+          "EN":"Angeghakot",
+          "RU":"Ангегакот",
+          "ARM":"Անգեղակոթ"
+        },
+        "lat": "39.5681",
+        "lng": "45.9439",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "1909",
+        "population_proper": "1909"
+      },
+      {
+        "city":  {
+          "EN":"Korrnidzor",
+          "RU":"Коррнидзор",
+          "ARM":"Կորնիձոր"
+        },
+        "lat": "39.5481",
+        "lng": "46.5311",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "1279",
+        "population_proper": "1279"
+      },
+      {
+        "city":  {
+          "EN":"Karahunj",
+          "RU":"Караундж",
+          "ARM":"Քարահունջ"
+        },
+        "lat": "39.4792",
+        "lng": "46.3589",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "1254",
+        "population_proper": "1254"
+      },
+      {
+        "city":  {
+          "EN":"Akner",
+          "RU":"Акнер",
+          "ARM":"Ակներ"
+        },
+        "lat": "39.5067",
+        "lng": "46.3086",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "1233",
+        "population_proper": "1233"
+      },
+      {
+        "city":  {
+          "EN":"Harzhis",
+          "RU":"Харжис",
+          "ARM":"Հարզիս"
+        },
+        "lat": "39.4333",
+        "lng": "46.2217",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "1108",
+        "population_proper": "1108"
+      },
+      {
+        "city":  {
+          "EN":"Khnatsakh",
+          "RU":"Хнацах",
+          "ARM":"Խնածախ"
+        },
+        "lat": "39.6036",
+        "lng": "46.3928",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "1100",
+        "population_proper": "1100"
+      },
+      {
+        "city":  {
+          "EN":"Tatev",
+          "RU":"Татев",
+          "ARM":"Տաթև"
+        },
+        "lat": "39.3817",
+        "lng": "46.2400",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Syunik",
+        "capital": "",
+        "population": "1025",
+        "population_proper": "1025"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province": {
+        "EN":"Gegharkunik",
+        "RU":"Гегаркуник",
+        "ARM":"Գեղարքունիկ"
+      },
+      "lat": "40.416667",
+      "lng": "45.2",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Gavar",
+      "population": "235075",
+      "population_proper": "235075"
+    },
+    "cities": [
+      {
+        "city":  {
+          "EN":"Sevan",
+          "RU":"Севан",
+          "ARM":"Սևան"
+        },
+        "lat": "40.5550",
+        "lng": "44.9536",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "23200",
+        "population_proper": "23200"
+      },
+      {
+        "city":  {
+          "EN":"Gavar",
+          "RU":"Гавар",
+          "ARM":"Գավառ"
+        },
+        "lat": "40.3667",
+        "lng": "45.1333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "admin",
+        "population": "20765",
+        "population_proper": "20765"
+      },
+      {
+        "city":  {
+          "EN":"Vardenis",
+          "RU":"Варденис",
+          "ARM":"Վարդենիս"
+        },
+        "lat": "40.1800",
+        "lng": "45.7200",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "12363",
+        "population_proper": "12363"
+      },
+      {
+        "city":  {
+          "EN":"Martuni",
+          "RU":"Мартуни",
+          "ARM":"Մարտունի"
+        },
+        "lat": "40.1400",
+        "lng": "45.3064",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "11987",
+        "population_proper": "11987"
+      },
+      {
+        "city":  {
+          "EN":"Vardenik",
+          "RU":"Варденик",
+          "ARM":"Վարդենիկ"
+        },
+        "lat": "40.1350",
+        "lng": "45.4364",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "9745",
+        "population_proper": "9745"
+      },
+      {
+        "city": {
+          "EN":"Zolakar",
+          "RU":"Золакар",
+          "ARM":"Զոլաքար"
+        },
+        "lat": "40.1250",
+        "lng": "45.3750",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "6878",
+        "population_proper": "6878"
+      },
+      {
+        "city":  {
+          "EN":"Karmir Gyukh",
+          "RU":"Кармир Гюх",
+          "ARM":"Կարմիր Գյուղ"
+        },
+        "lat": "40.3306",
+        "lng": "45.1839",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "6291",
+        "population_proper": "6291"
+      },
+      {
+        "city":  {
+          "EN":"Geghahovit",
+          "RU":"Гегаовит",
+          "ARM":"Գեղահովիտ"
+        },
+        "lat": "40.1044",
+        "lng": "45.2897",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "6184",
+        "population_proper": "6184"
+      },
+      {
+        "city":  {
+          "EN":"Yeranos",
+          "RU":"Еранос",
+          "ARM":"Երանոս"
+        },
+        "lat": "40.2081",
+        "lng": "45.1861",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "6119",
+        "population_proper": "6119"
+      },
+      {
+        "city":  {
+          "EN":"Chambarak",
+          "RU":"Чамбарак",
+          "ARM":"Ճամբարակ"
+        },
+        "lat": "40.5931",
+        "lng": "45.3572",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "5850",
+        "population_proper": "5850"
+      },
+      {
+        "city": {
+          "EN":"Lichk",
+          "RU":"Личк",
+          "ARM":"Լիճկ"
+        },
+        "lat": "40.1636",
+        "lng": "45.2278",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "5467",
+        "population_proper": "5467"
+      },
+      {
+        "city": {
+          "EN":"Sarukhan",
+          "RU":"Сарухан",
+          "ARM":"Սարուխան"
+        },
+        "lat": "40.2894",
+        "lng": "45.1342",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "5000",
+        "population_proper": "5000"
+      },
+      {
+        "city":  {
+          "EN":"Akunk",
+          "RU":"Акунк",
+          "ARM":"Ակունք"
+        },
+        "lat": "40.1522",
+        "lng": "45.7200",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "4647",
+        "population_proper": "4647"
+      },
+      {
+        "city":  {
+          "EN":"Gandzak",
+          "RU":"Гандзак",
+          "ARM":"Գանձակ"
+        },
+        "lat": "40.3147",
+        "lng": "45.1114",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "4595",
+        "population_proper": "4595"
+      },
+      {
+        "city": {
+          "EN":"Lchashen",
+          "RU":"Лчашен",
+          "ARM":"Լճաշեն"
+        },
+        "lat": "40.5242",
+        "lng": "44.9458",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "4182",
+        "population_proper": "4182"
+      },
+      {
+        "city": {
+          "EN":"Astghadzor",
+          "RU":"Астхадзор",
+          "ARM":"Աստղաձոր"
+        },
+        "lat": "40.1239",
+        "lng": "45.3567",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "4037",
+        "population_proper": "4037"
+      },
+      {
+        "city":  {
+          "EN":"Artsvanist",
+          "RU":"Арцванист",
+          "ARM":"Արծվանիստ"
+        },
+        "lat": "40.1544",
+        "lng": "45.5022",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "3233",
+        "population_proper": "3233"
+      },
+      {
+        "city": {
+          "EN":"Vardadzor",
+          "RU":"Вардадзор",
+          "ARM":"Վարդաձոր"
+        },
+        "lat": "40.1917",
+        "lng": "45.1875",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2864",
+        "population_proper": "2864"
+      },
+      {
+        "city": {
+          "EN":"Ddmashen",
+          "RU":"Ддмашен",
+          "ARM":"Դդմաշեն"
+        },
+        "lat": "40.5719",
+        "lng": "44.8122",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2855",
+        "population_proper": "2855"
+      },
+      {
+        "city":  {
+          "EN":"Drakhtik",
+          "RU":"Драхтик",
+          "ARM":"Դրախտիկ"
+        },
+        "lat": "40.5700",
+        "lng": "45.2300",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2664",
+        "population_proper": "2664"
+      },
+      {
+        "city":  {
+          "EN":"Tsovazard",
+          "RU":"Цовазард",
+          "ARM":"Ծովազարդ"
+        },
+        "lat": "40.4769",
+        "lng": "45.0375",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2195",
+        "population_proper": "2195"
+      },
+      {
+        "city":  {
+          "EN":"Aygut",
+          "RU":"Айгут",
+          "ARM":"Այգուտ"
+        },
+        "lat": "40.6842",
+        "lng": "45.1731",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2157",
+        "population_proper": "2157"
+      },
+      {
+        "city":  {
+          "EN":"Ayrk",
+          "RU":"Айрк",
+          "ARM":"Այրկ"
+        },
+        "lat": "40.1264",
+        "lng": "45.7911",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2100",
+        "population_proper": "2100"
+      },
+      {
+        "city":  {
+          "EN":"Geghamavan",
+          "RU":"Гегамаван",
+          "ARM":"Գեղամավան"
+        },
+        "lat": "40.5619",
+        "lng": "44.8828",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2080",
+        "population_proper": "2080"
+      },
+      {
+        "city":  {
+          "EN":"Gegharkunik",
+          "RU":"Гегаркуник",
+          "ARM":"Գեղարքունիկ"
+        },
+        "lat": "40.2583",
+        "lng": "45.1375",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2060",
+        "population_proper": "2060"
+      },
+      {
+        "city": {
+          "EN":"Geghamasar",
+          "RU":"Гегамасар",
+          "ARM":"Գեղամասար"
+        },
+        "lat": "40.3117",
+        "lng": "45.6800",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2050",
+        "population_proper": "2050"
+      },
+      {
+        "city":  {
+          "EN":"Artanish",
+          "RU":"Артаниш",
+          "ARM":"Արտանիշ"
+        },
+        "lat": "40.4958",
+        "lng": "45.3628",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "2037",
+        "population_proper": "2037"
+      },
+      {
+        "city": {
+          "EN":"Varser",
+          "RU":"Варсер",
+          "ARM":"Վարսեն"
+        },
+        "lat": "40.5561",
+        "lng": "44.9111",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1901",
+        "population_proper": "1901"
+      },
+      {
+        "city":  {
+          "EN":"Khachaghbyur",
+          "RU":"Хачахпюр",
+          "ARM":"Խաչաղբյուր"
+        },
+        "lat": "40.1722",
+        "lng": "45.6886",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1820",
+        "population_proper": "1820"
+      },
+      {
+        "city":  {
+          "EN":"Ttujur",
+          "RU":"Ттуджур",
+          "ARM":"Թթուջուր"
+        },
+        "lat": "40.6508",
+        "lng": "45.3050",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1740",
+        "population_proper": "1740"
+      },
+      {
+        "city": {
+          "EN":"Aghberk",
+          "RU":"Агберк",
+          "ARM":"Աղբերկ"
+        },
+        "lat": "40.5326",
+        "lng": "45.2692",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1563",
+        "population_proper": "1563"
+      },
+      {
+        "city":  {
+          "EN":"Kut",
+          "RU":"Кут",
+          "ARM":"Կուտ"
+        },
+        "lat": "40.1808",
+        "lng": "45.9017",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1533",
+        "population_proper": "1533"
+      },
+      {
+        "city": {
+          "EN":"Lusakunk",
+          "RU":"Лусакунк",
+          "ARM":"Լուսակունք"
+        },
+        "lat": "40.1667",
+        "lng": "45.6833",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1497",
+        "population_proper": "1497"
+      },
+      {
+        "city":  {
+          "EN":"Lchap",
+          "RU":"Лчап",
+          "ARM":"Լճափ"
+        },
+        "lat": "40.4611",
+        "lng": "45.0650",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1222",
+        "population_proper": "1222"
+      },
+      {
+        "city": {
+          "EN":"Dprabak",
+          "RU":"Дпрабак",
+          "ARM":"Դպրաբակ"
+        },
+        "lat": "40.6864",
+        "lng": "45.1264",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1112",
+        "population_proper": "1112"
+      },
+      {
+        "city":  {
+          "EN":"Tsaghkunk",
+          "RU":"Цахкунк",
+          "ARM":"Ծաղկունք"
+        },
+        "lat": "40.5831",
+        "lng": "44.8694",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1096",
+        "population_proper": "1096"
+      },
+      {
+        "city":  {
+          "EN":"Madina",
+          "RU":"Мадина",
+          "ARM":"Մադինա"
+        },
+        "lat": "40.0803",
+        "lng": "45.2511",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Gegharkunik",
+        "capital": "",
+        "population": "1024",
+        "population_proper": "1024"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province":  {
+        "EN":"Aragatsotn",
+        "RU":"Арагацотн",
+        "ARM":"Արագածոտն"
+      },
+      "lat": "40.416667",
+      "lng": "44.166667",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Ashtarak",
+      "population": "132925",
+      "population_proper": "132925"
+    },
+    "cities": [
+      {
+        "city":  {
+          "EN":"Ashtarak",
+          "RU":"Аштарак",
+          "ARM":"Աշտարակ"
+        },
+        "lat": "40.3000",
+        "lng": "44.4000",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "admin",
+        "population": "21600",
+        "population_proper": "21600"
+      },
+      {
+        "city": {
+          "EN":"Aparan",
+          "RU":"Апаран",
+          "ARM":"Ապարան"
+        },
+        "lat": "40.5961",
+        "lng": "44.3536",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "6400",
+        "population_proper": "6400"
+      },
+      {
+        "city":  {
+          "EN":"Oshakan",
+          "RU":"Ошакан",
+          "ARM":"Օշական"
+        },
+        "lat": "40.2633",
+        "lng": "44.3147",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "5962",
+        "population_proper": "5962"
+      },
+      {
+        "city": {
+          "EN":"Aragatsavan",
+          "RU":"Арагацаван",
+          "ARM":"Արագածավան"
+        },
+        "lat": "40.3331",
+        "lng": "43.6581",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "5785",
+        "population_proper": "5785"
+      },
+      {
+        "city":  {
+          "EN":"Zovuni",
+          "RU":"Зовуни",
+          "ARM":"Զովունի"
+        },
+        "lat": "40.2364",
+        "lng": "44.5039",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "5186",
+        "population_proper": "5186"
+      },
+      {
+        "city":  {
+          "EN":"Talin",
+          "RU":"Талин",
+          "ARM":"Թալին"
+        },
+        "lat": "40.3836",
+        "lng": "43.8764",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "4981",
+        "population_proper": "4981"
+      },
+      {
+        "city": {
+          "EN":"Byurakan",
+          "RU":"Бюракан",
+          "ARM":"Բյուրական"
+        },
+        "lat": "40.3400",
+        "lng": "44.2703",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "4606",
+        "population_proper": "4606"
+      },
+      {
+        "city":  {
+          "EN":"Voskevaz",
+          "RU":"Воскеваз",
+          "ARM":"Ոսկեվազ"
+        },
+        "lat": "40.2758",
+        "lng": "44.2986",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "4289",
+        "population_proper": "4289"
+      },
+      {
+        "city":  {
+          "EN":"Karbi",
+          "RU":"Карби",
+          "ARM":"Կարբի"
+        },
+        "lat": "40.3323",
+        "lng": "44.3766",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "3825",
+        "population_proper": "3825"
+      },
+      {
+        "city":  {
+          "EN":"Arteni",
+          "RU":"Артени",
+          "ARM":"Արտենի"
+        },
+        "lat": "40.2983",
+        "lng": "43.7542",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "3351",
+        "population_proper": "3351"
+      },
+      {
+        "city": {
+          "EN":"Vzhan",
+          "RU":"Вжан",
+          "ARM":"Վժան"
+        },
+        "lat": "40.2983",
+        "lng": "44.2047",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "3346",
+        "population_proper": "3346"
+      },
+      {
+        "city":  {
+          "EN":"Kosh",
+          "RU":"Кош",
+          "ARM":"Կոշ"
+        },
+        "lat": "40.3025",
+        "lng": "44.1569",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "3125",
+        "population_proper": "3125"
+      },
+      {
+        "city":  {
+          "EN":"Aragats",
+          "RU":"Арагац",
+          "ARM":"Արագած"
+        },
+        "lat": "40.4886",
+        "lng": "44.3544",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "3100",
+        "population_proper": "3100"
+      },
+      {
+        "city":  {
+          "EN":"Hatsik",
+          "RU":"Хацик",
+          "ARM":"Հացիկ"
+        },
+        "lat": "40.1597",
+        "lng": "43.9397",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2710",
+        "population_proper": "2710"
+      },
+      {
+        "city": {
+          "EN":"Sasunik",
+          "RU":"Сасуник",
+          "ARM":"Սասունիկ"
+        },
+        "lat": "40.2472",
+        "lng": "44.3381",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2537",
+        "population_proper": "2537"
+      },
+      {
+        "city": {
+          "EN":"Mastara",
+          "RU":"Мастара",
+          "ARM":"Մաստարա"
+        },
+        "lat": "40.4478",
+        "lng": "43.8814",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2433",
+        "population_proper": "2433"
+      },
+      {
+        "city":  {
+          "EN":"Parpi",
+          "RU":"Парпи",
+          "ARM":"Փարփի"
+        },
+        "lat": "40.3294",
+        "lng": "44.3072",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2420",
+        "population_proper": "2420"
+      },
+      {
+        "city": {
+          "EN":"Lerrnagog",
+          "RU":"Леррнагог",
+          "ARM":"Լեռնագոգ"
+        },
+        "lat": "40.2569",
+        "lng": "43.9081",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2415",
+        "population_proper": "2415"
+      },
+      {
+        "city":  {
+          "EN":"Kuchak",
+          "RU":"Кучак",
+          "ARM":"Քուչակ"
+        },
+        "lat": "40.5300",
+        "lng": "44.3900",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2371",
+        "population_proper": "2371"
+      },
+      {
+        "city": {
+          "EN":"Verin Sasunik",
+          "RU":"ВеринСасуник",
+          "ARM":"Վերին Սասունիկ"
+        },
+        "lat": "40.3333",
+        "lng": "44.1667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2371",
+        "population_proper": "2371"
+      },
+      {
+        "city":  {
+          "EN":"Ohanavan",
+          "RU":"Оганаван",
+          "ARM":"Օհանավան"
+        },
+        "lat": "40.3458",
+        "lng": "44.3831",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2314",
+        "population_proper": "2314"
+      },
+      {
+        "city":  {
+          "EN":"Hnaberd",
+          "RU":"Хнаберд",
+          "ARM":"Հնաբետդ"
+        },
+        "lat": "40.6428",
+        "lng": "44.1444",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "2169",
+        "population_proper": "2169"
+      },
+      {
+        "city":  {
+          "EN":"Shamiram",
+          "RU":"Шамирам",
+          "ARM":"Շամիրամ"
+        },
+        "lat": "40.2761",
+        "lng": "44.1008",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1989",
+        "population_proper": "1989"
+      },
+      {
+        "city":  {
+          "EN":"Nor Yerznka",
+          "RU":"Нор Ерзнка",
+          "ARM":"Նոր Երզնկա"
+        },
+        "lat": "40.3133",
+        "lng": "44.4047",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1985",
+        "population_proper": "1985"
+      },
+      {
+        "city":  {
+          "EN":"Aghdzk",
+          "RU":"Агдзк",
+          "ARM":"Աղձկ"
+        },
+        "lat": "40.3164",
+        "lng": "44.2536",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1935",
+        "population_proper": "1935"
+      },
+      {
+        "city":  {
+          "EN":"Kayk",
+          "RU":"Кайк",
+          "ARM":"Կայք"
+        },
+        "lat": "40.5864",
+        "lng": "44.3714",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1725",
+        "population_proper": "1725"
+      },
+      {
+        "city":  {
+          "EN":"Shenavan",
+          "RU":"Шенаван",
+          "ARM":"Շենավան"
+        },
+        "lat": "40.4831",
+        "lng": "44.3814",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1724",
+        "population_proper": "1724"
+      },
+      {
+        "city":  {
+          "EN":"Tsaghkahovit",
+          "RU":"Цахкаовит",
+          "ARM":"Ծաղկահովիտ"
+        },
+        "lat": "40.6361",
+        "lng": "44.2231",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1684",
+        "population_proper": "1684"
+      },
+      {
+        "city":  {
+          "EN":"Nigavan",
+          "RU":"Нигаван",
+          "ARM":"Նիգավան"
+        },
+        "lat": "40.6217",
+        "lng": "44.2992",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1659",
+        "population_proper": "1659"
+      },
+      {
+        "city":  {
+          "EN":"Katnaghbyur",
+          "RU":"Катнахбюр",
+          "ARM":"Կաթնաղբյուր"
+        },
+        "lat": "40.3772",
+        "lng": "43.9383",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1580",
+        "population_proper": "1580"
+      },
+      {
+        "city":  {
+          "EN":"Ushi",
+          "RU":"Уши",
+          "ARM":"Ուշի"
+        },
+        "lat": "40.3483",
+        "lng": "44.3731",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1532",
+        "population_proper": "1532"
+      },
+      {
+        "city":  {
+          "EN":"Nerkin Bazmaberd",
+          "RU":"Неркин Базмаберд",
+          "ARM":"Ներքին Բազմաբերդ"
+        },
+        "lat": "40.3453",
+        "lng": "44.0556",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1438",
+        "population_proper": "1438"
+      },
+      {
+        "city":  {
+          "EN":"Melikgyugh",
+          "RU":"Меликгюх",
+          "ARM":"Մելիքգյուղ"
+        },
+        "lat": "40.6694",
+        "lng": "44.3575",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1379",
+        "population_proper": "1379"
+      },
+      {
+        "city": {
+          "EN":"Ashnak",
+          "RU":"Ашнак",
+          "ARM":"Աշնակ"
+        },
+        "lat": "40.3275",
+        "lng": "43.9167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1364",
+        "population_proper": "1364"
+      },
+      {
+        "city":  {
+          "EN":"Norashen",
+          "RU":"Норашен",
+          "ARM":"Նորաշեն"
+        },
+        "lat": "40.6622",
+        "lng": "44.0736",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1336",
+        "population_proper": "1336"
+      },
+      {
+        "city":  {
+          "EN":"Agarak",
+          "RU":"Агарак",
+          "ARM":"Ագարակ"
+        },
+        "lat": "40.3025",
+        "lng": "44.2789",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1268",
+        "population_proper": "1268"
+      },
+      {
+        "city":  {
+          "EN":"Geghadzor",
+          "RU":"Гехкадзор",
+          "ARM":"Գեղաձոր"
+        },
+        "lat": "40.6328",
+        "lng": "44.1731",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1192",
+        "population_proper": "1192"
+      },
+      {
+        "city": "Vardenut",
+        "lat": "40.4706",
+        "lng": "44.3653",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1172",
+        "population_proper": "1172"
+      },
+      {
+        "city":  {
+          "EN":"Yeghipatrush",
+          "RU":"Египатруш",
+          "ARM":"Եղիպատրուշ"
+        },
+        "lat": "40.5386",
+        "lng": "44.4744",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1170",
+        "population_proper": "1170"
+      },
+      {
+        "city":  {
+          "EN":"Nor Yedesia",
+          "RU":"Нор Едесия",
+          "ARM":"Նոր Եդենիս"
+        },
+        "lat": "40.2247",
+        "lng": "44.1333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1065",
+        "population_proper": "1065"
+      },
+      {
+        "city":  {
+          "EN":"Aragatsotn",
+          "RU":"Арагацотн",
+          "ARM":"Արագածոտն"
+        },
+        "lat": "40.2583",
+        "lng": "44.1828",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1049",
+        "population_proper": "1049"
+      },
+      {
+        "city":  {
+          "EN":"Voskehat",
+          "RU":"Воскеат",
+          "ARM":"Ոսկեհատ"
+        },
+        "lat": "40.2764",
+        "lng": "44.2744",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1046",
+        "population_proper": "1046"
+      },
+      {
+        "city":  {
+          "EN":"Agarakavan",
+          "RU":"Агаракаван",
+          "ARM":"Ագարակավան"
+        },
+        "lat": "40.3333",
+        "lng": "44.0667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1036",
+        "population_proper": "1036"
+      },
+      {
+        "city":  {
+          "EN":"Aruch",
+          "RU":"Арух",
+          "ARM":"Արուճ"
+        },
+        "lat": "40.2925",
+        "lng": "44.0792",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1016",
+        "population_proper": "1016"
+      },
+      {
+        "city": {
+          "EN":"Kakavadzor",
+          "RU":"Какавадзор",
+          "ARM":"Կաքավաձոր"
+        },
+        "lat": "40.3436",
+        "lng": "44.0119",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Aragatsotn",
+        "capital": "",
+        "population": "1012",
+        "population_proper": "1012"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province":  {
+        "EN":"Ararat",
+        "RU":"Арарат",
+        "ARM":"Արարատ"
+      },
+      "lat": "39.916667",
+      "lng": "44.716667",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Artashat",
+      "population": "260367",
+      "population_proper": "260367"
+    },
+    "cities": [
+      {
+        "city":  {
+          "EN":"Artashat",
+          "RU":"Арташат",
+          "ARM":"Արտաշատ"
+        },
+        "lat": "39.9539",
+        "lng": "44.5506",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "admin",
+        "population": "21300",
+        "population_proper": "21300"
+      },
+      {
+        "city":  {
+          "EN":"Ararat",
+          "RU":"Арарат",
+          "ARM":"Արարատ"
+        },
+        "lat": "39.8094",
+        "lng": "44.7144",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "20800",
+        "population_proper": "20800"
+      },
+      {
+        "city":  {
+          "EN":"Vedi",
+          "RU":"Веди",
+          "ARM":"Վեդի"
+        },
+        "lat": "39.9100",
+        "lng": "44.7300",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "13600",
+        "population_proper": "13600"
+      },
+      {
+        "city":  {
+          "EN":"Ayntap",
+          "RU":"Айнтап",
+          "ARM":"Այնթափ"
+        },
+        "lat": "40.0986",
+        "lng": "44.4681",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "9550",
+        "population_proper": "9550"
+      },
+      {
+        "city":  {
+          "EN":"Nor Kharberd",
+          "RU":"Нор Харберд",
+          "ARM":"Նոր Խարբերդ"
+        },
+        "lat": "40.0892",
+        "lng": "44.4778",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "8000",
+        "population_proper": "8000"
+      },
+      {
+        "city": {
+          "EN":"Vosketap",
+          "RU":"Воскетап",
+          "ARM":"Ոսկեպատ"
+        },
+        "lat": "39.8725",
+        "lng": "44.6544",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "4700",
+        "population_proper": "4700"
+      },
+      {
+        "city":  {
+          "EN":"Aygavan",
+          "RU":"Айгаван",
+          "ARM":"Այգավան"
+        },
+        "lat": "39.8647",
+        "lng": "44.6703",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "4569",
+        "population_proper": "4569"
+      },
+      {
+        "city": {
+          "EN":"Verin Artashat",
+          "RU":"Верин Арташат",
+          "ARM":"Վերին Արտաշատ"
+        },
+        "lat": "40.0006",
+        "lng": "44.5850",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "4491",
+        "population_proper": "4491"
+      },
+      {
+        "city":  {
+          "EN":"Avshar",
+          "RU":"Авшар",
+          "ARM":"Ավշար"
+        },
+        "lat": "39.8539",
+        "lng": "44.6808",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3877",
+        "population_proper": "3877"
+      },
+      {
+        "city":  {
+          "EN":"Taperakan",
+          "RU":"Таперакан",
+          "ARM":"Տապերական"
+        },
+        "lat": "39.9186",
+        "lng": "44.6061",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3708",
+        "population_proper": "3708"
+      },
+      {
+        "city": {
+          "EN":"Hovtashat",
+          "RU":"Овташат",
+          "ARM":"Հովտաշատ"
+        },
+        "lat": "40.1019",
+        "lng": "44.3428",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3674",
+        "population_proper": "3674"
+      },
+      {
+        "city":  {
+          "EN":"Mkhchyan",
+          "RU":"Мхчян",
+          "ARM":"Մխչյան"
+        },
+        "lat": "40.0200",
+        "lng": "44.4911",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3557",
+        "population_proper": "3557"
+      },
+      {
+        "city":  {
+          "EN":"Verin Dvin",
+          "RU":"Верин Двин",
+          "ARM":"Վերին Դվին"
+        },
+        "lat": "40.0253",
+        "lng": "44.5908",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3525",
+        "population_proper": "3525"
+      },
+      {
+        "city":  {
+          "EN":"Aygezard",
+          "RU":"Айгезард",
+          "ARM":"Այգեզարդ"
+        },
+        "lat": "39.9564",
+        "lng": "44.6047",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3458",
+        "population_proper": "3458"
+      },
+      {
+        "city":  {
+          "EN":"Norashen",
+          "RU":"Норашен",
+          "ARM":"Նորաշեն"
+        },
+        "lat": "40.0042",
+        "lng": "44.5947",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3265",
+        "population_proper": "3265"
+      },
+      {
+        "city":  {
+          "EN":"Dvin",
+          "RU":"Двин",
+          "ARM":"Դվին"
+        },
+        "lat": "40.0200",
+        "lng": "44.5853",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3160",
+        "population_proper": "3160"
+      },
+      {
+        "city":  {
+          "EN":"Marmarashen",
+          "RU":"Мармарашен",
+          "ARM":"Մարմարաշեն"
+        },
+        "lat": "40.0575",
+        "lng": "44.4711",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3138",
+        "population_proper": "3138"
+      },
+      {
+        "city":  {
+          "EN":"Vostan",
+          "RU":"Востан",
+          "ARM":"Ոստան"
+        },
+        "lat": "39.9589",
+        "lng": "44.5592",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3125",
+        "population_proper": "3125"
+      },
+      {
+        "city":  {
+          "EN":"Azatavan",
+          "RU":"Азатаван",
+          "ARM":"Ազատավան"
+        },
+        "lat": "39.9850",
+        "lng": "44.5075",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3117",
+        "population_proper": "3117"
+      },
+      {
+        "city":  {
+          "EN":"Pokr Vedi",
+          "RU":"Покр Веди",
+          "ARM":"Փոքր Վեդի"
+        },
+        "lat": "39.8950",
+        "lng": "44.6125",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3091",
+        "population_proper": "3091"
+      },
+      {
+        "city":  {
+          "EN":"Kaghtsrashen",
+          "RU":"Кахцрашен",
+          "ARM":"Քաղցրաշեն"
+        },
+        "lat": "39.9667",
+        "lng": "44.6167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3091",
+        "population_proper": "3091"
+      },
+      {
+        "city": {
+          "EN":"Aygestan",
+          "RU":"Айгестан",
+          "ARM":"Այգեստան"
+        },
+        "lat": "40.0306",
+        "lng": "44.5575",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3063",
+        "population_proper": "3063"
+      },
+      {
+        "city":  {
+          "EN":"Urtsadzor",
+          "RU":"Урцадзор",
+          "ARM":"Ուրցաձոր"
+        },
+        "lat": "39.9125",
+        "lng": "44.8175",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "3060",
+        "population_proper": "3060"
+      },
+      {
+        "city":  {
+          "EN":"Goravan",
+          "RU":"Гораван",
+          "ARM":"Գորավան"
+        },
+        "lat": "39.9000",
+        "lng": "44.7333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2910",
+        "population_proper": "2910"
+      },
+      {
+        "city":  {
+          "EN":"Nor Kyank",
+          "RU":"Нор Кянк",
+          "ARM":"Նոր Կյանք"
+        },
+        "lat": "39.9003",
+        "lng": "44.6164",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2905",
+        "population_proper": "2905"
+      },
+      {
+        "city": {
+          "EN":"Zangakatun",
+          "RU":"Зангакатун",
+          "ARM":"Զանգակատուն"
+        },
+        "lat": "39.8094",
+        "lng": "45.0511",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2819",
+        "population_proper": "2819"
+      },
+      {
+        "city":  {
+          "EN":"Dalar",
+          "RU":"Далар",
+          "ARM":"Դալար"
+        },
+        "lat": "39.9669",
+        "lng": "44.5364",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2634",
+        "population_proper": "2634"
+      },
+      {
+        "city":  {
+          "EN":"Sipanik",
+          "RU":"Сипаник",
+          "ARM":"Սիփանիկ"
+        },
+        "lat": "40.1069",
+        "lng": "44.3522",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2620",
+        "population_proper": "2620"
+      },
+      {
+        "city": {
+          "EN":"Aralez",
+          "RU":"Аралез",
+          "ARM":"Արալեզ"
+        },
+        "lat": "39.9003",
+        "lng": "44.6533",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2493",
+        "population_proper": "2493"
+      },
+      {
+        "city":  {
+          "EN":"Darakert",
+          "RU":"Даракерт",
+          "ARM":"Դարակերտ"
+        },
+        "lat": "40.1000",
+        "lng": "44.4167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2493",
+        "population_proper": "2493"
+      },
+      {
+        "city":  {
+          "EN":"Arevshat",
+          "RU":"Аревшат",
+          "ARM":"Արևշատ"
+        },
+        "lat": "40.0400",
+        "lng": "44.5400",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2468",
+        "population_proper": "2468"
+      },
+      {
+        "city":   {
+          "EN":"Armash",
+          "RU":"Армаш",
+          "ARM":"Արմաշ"
+        },
+        "lat": "39.7667",
+        "lng": "44.8083",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2459",
+        "population_proper": "2459"
+      },
+      {
+        "city":   {
+          "EN":"Sis",
+          "RU":"Сис",
+          "ARM":"Սիս"
+        },
+        "lat": "40.0586",
+        "lng": "44.3864",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2437",
+        "population_proper": "2437"
+      },
+      {
+        "city":  {
+          "EN":"Khachparr",
+          "RU":"Хачпарр",
+          "ARM":"Խաչպար"
+        },
+        "lat": "40.1258",
+        "lng": "44.4031",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2424",
+        "population_proper": "2424"
+      },
+      {
+        "city":  {
+          "EN":"Sayat-Nova",
+          "RU":"Саят-Нова",
+          "ARM":"Սայաթ֊Նովա"
+        },
+        "lat": "40.0742",
+        "lng": "44.3975",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2379",
+        "population_proper": "2379"
+      },
+      {
+        "city":  {
+          "EN":"Lusarrat",
+          "RU":"Лусаррат",
+          "ARM":"Լուսառատ"
+        },
+        "lat": "39.8744",
+        "lng": "44.5992",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2349",
+        "population_proper": "2349"
+      },
+      {
+        "city":  {
+          "EN":"Vanashen",
+          "RU":"Ванашен",
+          "ARM":"Վանաշեն"
+        },
+        "lat": "39.9000",
+        "lng": "44.6833",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2300",
+        "population_proper": "2300"
+      },
+      {
+        "city": {
+          "EN":"Sisavan",
+          "RU":"Сисаван",
+          "ARM":"Սիսավան"
+        },
+        "lat": "39.9000",
+        "lng": "44.6667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2253",
+        "population_proper": "2253"
+      },
+      {
+        "city":  {
+          "EN":"Zorak",
+          "RU":"Зорак",
+          "ARM":"Զորակ"
+        },
+        "lat": "40.0925",
+        "lng": "44.3919",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2229",
+        "population_proper": "2229"
+      },
+      {
+        "city": {
+          "EN":"Mrgavet",
+          "RU":"Мргавет",
+          "ARM":"Մրգավետ"
+        },
+        "lat": "40.0300",
+        "lng": "44.4800",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2226",
+        "population_proper": "2226"
+      },
+      {
+        "city": {
+          "EN":"Yerevan",
+          "RU":"Бурастан",
+          "ARM":"Բուրաստան"
+        },
+        "lat": "39.9833",
+        "lng": "44.5000",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2206",
+        "population_proper": "2206"
+      },
+      {
+        "city":  {
+          "EN":"Dashtavan",
+          "RU":"Даштаван",
+          "ARM":"Դաշտավան"
+        },
+        "lat": "40.1017",
+        "lng": "44.3906",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2193",
+        "population_proper": "2193"
+      },
+      {
+        "city":{
+          "EN":"Getazat",
+          "RU":"Гетазат",
+          "ARM":"Գետազատ"
+        },
+        "lat": "40.0381",
+        "lng": "44.5639",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2175",
+        "population_proper": "2175"
+      },
+      {
+        "city": {
+          "EN":"Ghukasavan",
+          "RU":"Гукасаван",
+          "ARM":"Ղուկասավան"
+        },
+        "lat": "40.1261",
+        "lng": "44.4178",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2168",
+        "population_proper": "2168"
+      },
+      {
+        "city": {
+          "EN":"Hayanist",
+          "RU":"Айанист",
+          "ARM":"Հայանիստ"
+        },
+        "lat": "40.1197",
+        "lng": "44.3775",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2144",
+        "population_proper": "2144"
+      },
+      {
+        "city":  {
+          "EN":"Berkanush",
+          "RU":"Беркануш",
+          "ARM":"Բերքանուշ"
+        },
+        "lat": "39.9833",
+        "lng": "44.5167",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2070",
+        "population_proper": "2070"
+      },
+      {
+        "city":  {
+          "EN":"Noramarg",
+          "RU":"Норамарг",
+          "ARM":"Նորամարգ"
+        },
+        "lat": "40.0236",
+        "lng": "44.4244",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2069",
+        "population_proper": "2069"
+      },
+      {
+        "city": {
+          "EN":"Baghramyan",
+          "RU":"Баграмян",
+          "ARM":"Բաղրամյան"
+        },
+        "lat": "39.9850",
+        "lng": "44.5075",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "2000",
+        "population_proper": "2000"
+      },
+      {
+        "city":  {
+          "EN":"Norabats",
+          "RU":"Норабац",
+          "ARM":"Նորաբաց"
+        },
+        "lat": "40.1053",
+        "lng": "44.4300",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1987",
+        "population_proper": "1987"
+      },
+      {
+        "city":  {
+          "EN":"Hnaberd",
+          "RU":"Хнаберд",
+          "ARM":"Հնաբերդ"
+        },
+        "lat": "40.0058",
+        "lng": "44.5744",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1946",
+        "population_proper": "1946"
+      },
+      {
+        "city":  {
+          "EN":"Yeghegnavan",
+          "RU":"Егегнаван",
+          "ARM":"Եղեգնավան"
+        },
+        "lat": "39.8278",
+        "lng": "44.6372",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1946",
+        "population_proper": "1946"
+      },
+      {
+        "city":  {
+          "EN":"Nshavan",
+          "RU":"Ншаван",
+          "ARM":"Նշավան"
+        },
+        "lat": "40.0264",
+        "lng": "44.5253",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1930",
+        "population_proper": "1930"
+      },
+      {
+        "city":  {
+          "EN":"Noyakert",
+          "RU":"Ноякерт",
+          "ARM":"Նոյակերտ"
+        },
+        "lat": "39.8167",
+        "lng": "44.6669",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1900",
+        "population_proper": "1900"
+      },
+      {
+        "city":  {
+          "EN":"Mrgavan",
+          "RU":"Мргаван",
+          "ARM":"Մրգավան"
+        },
+        "lat": "39.9661",
+        "lng": "44.5333",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1872",
+        "population_proper": "1872"
+      },
+      {
+        "city":  {
+          "EN":"Darbnik",
+          "RU":"Дарбник",
+          "ARM":"Դարբնիկ"
+        },
+        "lat": "40.1069",
+        "lng": "44.3764",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1748",
+        "population_proper": "1748"
+      },
+      {
+        "city":  {
+          "EN":"Masis",
+          "RU":"Масис",
+          "ARM":"Մասիս"
+        },
+        "lat": "40.0672",
+        "lng": "44.4361",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1744",
+        "population_proper": "1744"
+      },
+      {
+        "city":  {
+          "EN":"Aygepat",
+          "RU":"Айгепат",
+          "ARM":"Այգեպատ"
+        },
+        "lat": "39.9564",
+        "lng": "44.6047",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1731",
+        "population_proper": "1731"
+      },
+      {
+        "city":  {
+          "EN":"Nizami",
+          "RU":"Низами",
+          "ARM":"Նիզամի"
+        },
+        "lat": "40.0911",
+        "lng": "44.4045",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1671",
+        "population_proper": "1671"
+      },
+      {
+        "city":  {
+          "EN":"Dimitrov",
+          "RU":"Димитров",
+          "ARM":"Դմիտրով"
+        },
+        "lat": "40.0081",
+        "lng": "44.4881",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1668",
+        "population_proper": "1668"
+      },
+      {
+        "city": {
+          "EN":"Rranchpar",
+          "RU":"Рранчпар",
+          "ARM":"Ռանչպար"
+        },
+        "lat": "40.0253",
+        "lng": "44.3703",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Ararat",
+        "capital": "",
+        "population": "1650",
+        "population_proper": "1650"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province":  {
+        "EN":"Tavush",
+        "RU":"Тавуш",
+        "ARM":"Տավուշ"
+      },
+      "lat": "40.883333",
+      "lng": "45.133333",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Ijevan",
+      "population": "128609",
+      "population_proper": "128609"
+    },
+    "cities": [
+      {
+        "city": {
+          "EN":"Ijevan",
+          "RU":"Иджеван",
+          "ARM":"Իջևան"
+        },
+        "lat": "40.8756",
+        "lng": "45.1492",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "admin",
+        "population": "20509",
+        "population_proper": "20509"
+      },
+      {
+        "city":  {
+          "EN":"Dilijan",
+          "RU":"Дилижан",
+          "ARM":"Դիլիջան"
+        },
+        "lat": "40.7408",
+        "lng": "44.8631",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "16600",
+        "population_proper": "16600"
+      },
+      {
+        "city":  {
+          "EN":"Berd",
+          "RU":"Берд",
+          "ARM":"Բերդ"
+        },
+        "lat": "40.8808",
+        "lng": "45.3917",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "9864",
+        "population_proper": "9864"
+      },
+      {
+        "city":  {
+          "EN":"Noyemberyan",
+          "RU":"Ноемберян",
+          "ARM":"Նոյեմբերյան"
+        },
+        "lat": "41.1725",
+        "lng": "44.9936",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "5310",
+        "population_proper": "5310"
+      },
+      {
+        "city": {
+          "EN":"Achajur",
+          "RU":"Ачаджур",
+          "ARM":"Աչաջուր"
+        },
+        "lat": "40.9903",
+        "lng": "45.1453",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "4447",
+        "population_proper": "4447"
+      },
+      {
+        "city":  {
+          "EN":"Koghb",
+          "RU":"Кохб",
+          "ARM":"Կողբ"
+        },
+        "lat": "41.1667",
+        "lng": "44.9500",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "4420",
+        "population_proper": "4420"
+      },
+      {
+        "city": {
+          "EN":"Haghartsin",
+          "RU":"Агарцин",
+          "ARM":"Հաղարծին"
+        },
+        "lat": "40.7781",
+        "lng": "44.9625",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "4022",
+        "population_proper": "4022"
+      },
+      {
+        "city":  {
+          "EN":"Gandzakar",
+          "RU":"Гандзакар",
+          "ARM":"Գանձաքար"
+        },
+        "lat": "40.8447",
+        "lng": "45.1600",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "3475",
+        "population_proper": "3475"
+      },
+      {
+        "city": {
+          "EN":"Aygehovit",
+          "RU":"Айгеховт",
+          "ARM":"Այգեհովիտ"
+        },
+        "lat": "40.9744",
+        "lng": "45.2519",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "3428",
+        "population_proper": "3428"
+      },
+      {
+        "city": {
+          "EN":"Berdavan",
+          "RU":"Бердаван",
+          "ARM":"Բերդավան"
+        },
+        "lat": "41.2042",
+        "lng": "45.0000",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "3278",
+        "population_proper": "3278"
+      },
+      {
+        "city":  {
+          "EN":"Artsvaberd",
+          "RU":"Арцваберд",
+          "ARM":"Արծվաբերդ"
+        },
+        "lat": "40.8417",
+        "lng": "45.4722",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "3267",
+        "population_proper": "3267"
+      },
+      {
+        "city":  {
+          "EN":"Azatamut",
+          "RU":"Азатамут",
+          "ARM":"Ազատամուտ"
+        },
+        "lat": "40.9758",
+        "lng": "45.1981",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "2644",
+        "population_proper": "2644"
+      },
+      {
+        "city":  {
+          "EN":"Aygedzor",
+          "RU":"Айгедзор",
+          "ARM":"Այգեձոր"
+        },
+        "lat": "40.8256",
+        "lng": "45.5408",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "2608",
+        "population_proper": "2608"
+      },
+      {
+        "city":  {
+          "EN":"Koti",
+          "RU":"Коти",
+          "ARM":"Կոթի"
+        },
+        "lat": "41.1356",
+        "lng": "45.1250",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "2270",
+        "population_proper": "2270"
+      },
+      {
+        "city":  {
+          "EN":"Mosesgegh",
+          "RU":"Мозесгех",
+          "ARM":"Մոսեսագեղ"
+        },
+        "lat": "40.9064",
+        "lng": "45.4914",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "2046",
+        "population_proper": "2046"
+      },
+      {
+        "city": {
+          "EN":"Getahovit",
+          "RU":"Гетаховит",
+          "ARM":"Գետահովիտ"
+        },
+        "lat": "40.8958",
+        "lng": "45.1314",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "2043",
+        "population_proper": "2043"
+      },
+      {
+        "city":  {
+          "EN":"Sevkar",
+          "RU":"Севкар",
+          "ARM":"Սևքար"
+        },
+        "lat": "41.0197",
+        "lng": "45.1425",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "2037",
+        "population_proper": "2037"
+      },
+      {
+        "city":  {
+          "EN":"Verin Karmiraghbyur",
+          "RU":"Верин Кармирагбюр",
+          "ARM":"Վերին Կարմիրաղբյուր"
+        },
+        "lat": "40.8842",
+        "lng": "45.4414",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1837",
+        "population_proper": "1837"
+      },
+      {
+        "city":  {
+          "EN":"Khashtarrak",
+          "RU":"Хаштаррак",
+          "ARM":"Խաշտարակ"
+        },
+        "lat": "40.9386",
+        "lng": "45.1797",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1782",
+        "population_proper": "1782"
+      },
+      {
+        "city":  {
+          "EN":"Norashen",
+          "RU":"Норашен",
+          "ARM":"Նորաշեն"
+        },
+        "lat": "40.8769",
+        "lng": "45.4594",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1746",
+        "population_proper": "1746"
+      },
+      {
+        "city": {
+          "EN":"Parravakar",
+          "RU":"Парравакар",
+          "ARM":"Պառավաքար"
+        },
+        "lat": "40.9806",
+        "lng": "45.3992",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1735",
+        "population_proper": "1735"
+      },
+      {
+        "city":  {
+          "EN":"Tavush",
+          "RU":"Тавуш",
+          "ARM":"Տավուշ"
+        },
+        "lat": "40.9100",
+        "lng": "45.4000",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1568",
+        "population_proper": "1568"
+      },
+      {
+        "city":  {
+          "EN":"Teghut",
+          "RU":"Техут",
+          "ARM":"Թեղուտ"
+        },
+        "lat": "40.7778",
+        "lng": "44.9350",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1421",
+        "population_proper": "1421"
+      },
+      {
+        "city":  {
+          "EN":"Voskevan",
+          "RU":"Воскеван",
+          "ARM":"Ոսկեվան"
+        },
+        "lat": "41.1192",
+        "lng": "45.0653",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1405",
+        "population_proper": "1405"
+      },
+      {
+        "city":  {
+          "EN":"Chinari",
+          "RU":"Чинари",
+          "ARM":"Չինարի"
+        },
+        "lat": "40.8497",
+        "lng": "45.5719",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1279",
+        "population_proper": "1279"
+      },
+      {
+        "city":  {
+          "EN":"Sarigyugh",
+          "RU":"Саригюх",
+          "ARM":"Սարիգյուղ"
+        },
+        "lat": "41.0564",
+        "lng": "45.1458",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1253",
+        "population_proper": "1253"
+      },
+      {
+        "city":  {
+          "EN":"Haghtanak",
+          "RU":"Ахтанак",
+          "ARM":"Հաղթանակ"
+        },
+        "lat": "41.2239",
+        "lng": "44.9378",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1180",
+        "population_proper": "1180"
+      },
+      {
+        "city":  {
+          "EN":"Navur",
+          "RU":"Навур",
+          "ARM":"Նավուր"
+        },
+        "lat": "40.8614",
+        "lng": "45.3175",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1157",
+        "population_proper": "1157"
+      },
+      {
+        "city":  {
+          "EN":"Gosh",
+          "RU":"Гош",
+          "ARM":"Գոշ"
+        },
+        "lat": "40.7225",
+        "lng": "45.0033",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1155",
+        "population_proper": "1155"
+      },
+      {
+        "city":  {
+          "EN":"Archis",
+          "RU":"Арчис",
+          "ARM":"Արչիս"
+        },
+        "lat": "41.1642",
+        "lng": "44.8725",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1109",
+        "population_proper": "1109"
+      },
+      {
+        "city":  {
+          "EN":"Nerkin Karmiraghbyur",
+          "RU":"НеркинК армирагбюр",
+          "ARM":"Ներքին Կարմիրաղբյուր"
+        },
+        "lat": "40.9481",
+        "lng": "45.4331",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1105",
+        "population_proper": "1105"
+      },
+      {
+        "city": {
+          "EN":"Choratan",
+          "RU":"Чоратан",
+          "ARM":"Չորաթան"
+        },
+        "lat": "40.8611",
+        "lng": "45.4800",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1060",
+        "population_proper": "1060"
+      },
+      {
+        "city":  {
+          "EN":"Zorakan",
+          "RU":"Зоракан",
+          "ARM":"Զորական"
+        },
+        "lat": "41.2186",
+        "lng": "44.9314",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Tavush",
+        "capital": "",
+        "population": "1044",
+        "population_proper": "1044"
+      }
+    ]
+  },
+  {
+    "region": {
+      "province":  {
+        "EN":"Vayots Dzor",
+        "RU":"Вайоцдзор",
+        "ARM":"Վայոց ձւր"
+      },
+      "lat": "39.75",
+      "lng": "45.5",
+      "country": "Armenia",
+      "iso2": "AM",
+      "capital": "Yeghegnadzor",
+      "population": "58324",
+      "population_proper": "58324"
+    },
+    "cities": [
+      {
+        "city":  {
+          "EN":"Jermuk",
+          "RU":"Джермук",
+          "ARM":"Ջերմուկ"
+        },
+        "lat": "39.8500",
+        "lng": "45.6833",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "8013",
+        "population_proper": "8013"
+      },
+      {
+        "city":  {
+          "EN":"Yeghegnadzor",
+          "RU":"Ехегнадзор",
+          "ARM":"Եղեգնաձոր"
+        },
+        "lat": "39.7667",
+        "lng": "45.3500",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "admin",
+        "population": "7633",
+        "population_proper": "7633"
+      },
+      {
+        "city": {
+          "EN":"Vayk",
+          "RU":"Вайк",
+          "ARM":"Վայք"
+        },
+        "lat": "39.6833",
+        "lng": "45.4667",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "5800",
+        "population_proper": "5800"
+      },
+      {
+        "city":  {
+          "EN":"Malishka",
+          "RU":"Малышка",
+          "ARM":"Մալիշկա"
+        },
+        "lat": "39.7369",
+        "lng": "45.3875",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "5128",
+        "population_proper": "5128"
+      },
+      {
+        "city":  {
+          "EN":"Gladzor",
+          "RU":"Гладзор",
+          "ARM":"Գլաձոր"
+        },
+        "lat": "39.7783",
+        "lng": "45.3478",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "2489",
+        "population_proper": "2489"
+      },
+      {
+        "city":  {
+          "EN":"Getap",
+          "RU":"Гетап",
+          "ARM":"Գետափ"
+        },
+        "lat": "39.7636",
+        "lng": "45.3061",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "2328",
+        "population_proper": "2328"
+      },
+      {
+        "city":  {
+          "EN":"Shatin",
+          "RU":"Шатин",
+          "ARM":"Շատին"
+        },
+        "lat": "39.8333",
+        "lng": "45.3017",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "2035",
+        "population_proper": "2035"
+      },
+      {
+        "city":  {
+          "EN":"Aghavnadzor",
+          "RU":"Агавнадзор",
+          "ARM":"Աղավնաձոր"
+        },
+        "lat": "39.7836",
+        "lng": "45.2281",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "2029",
+        "population_proper": "2029"
+      },
+      {
+        "city":  {
+          "EN":"Rrind",
+          "RU":"Рринд",
+          "ARM":"Ռինդ"
+        },
+        "lat": "39.7597",
+        "lng": "45.1800",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1726",
+        "population_proper": "1726"
+      },
+      {
+        "city":  {
+          "EN":"Zarritap",
+          "RU":"Зарритап",
+          "ARM":"Զառիթափ"
+        },
+        "lat": "39.6372",
+        "lng": "45.5086",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1636",
+        "population_proper": "1636"
+      },
+      {
+        "city": {
+          "EN":"Herher",
+          "RU":"Герхер",
+          "ARM":"Հերհեր"
+        },
+        "lat": "39.7733",
+        "lng": "45.5386",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1562",
+        "population_proper": "1562"
+      },
+      {
+        "city": {
+          "EN":"Yelpin",
+          "RU":"Елпин",
+          "ARM":"Ելփին"
+        },
+        "lat": "39.8058",
+        "lng": "45.1103",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1402",
+        "population_proper": "1402"
+      },
+      {
+        "city":  {
+          "EN":"Arpi",
+          "RU":"Арпи",
+          "ARM":"Արփի"
+        },
+        "lat": "39.7392",
+        "lng": "45.2617",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1360",
+        "population_proper": "1360"
+      },
+      {
+        "city": {
+          "EN":"Agarakadzor",
+          "RU":"Агаракадзор",
+          "ARM":"Ագարակաձոր"
+        },
+        "lat": "39.7364",
+        "lng": "45.3456",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1355",
+        "population_proper": "1355"
+      },
+      {
+        "city":  {
+          "EN":"Vernashen",
+          "RU":"Вернашен",
+          "ARM":"Վերնաշեն"
+        },
+        "lat": "39.7939",
+        "lng": "45.3633",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1329",
+        "population_proper": "1329"
+      },
+      {
+        "city":  {
+          "EN":"Gndevaz",
+          "RU":"Гндеваз",
+          "ARM":"Գնդևազ"
+        },
+        "lat": "39.7592",
+        "lng": "45.6181",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1184",
+        "population_proper": "1184"
+      },
+      {
+        "city":  {
+          "EN":"Karmrashen",
+          "RU":"Кармрашен",
+          "ARM":"Կարմրաշեն"
+        },
+        "lat": "39.8164",
+        "lng": "45.5306",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1157",
+        "population_proper": "1157"
+      },
+      {
+        "city":  {
+          "EN":"Hors",
+          "RU":"Хорс",
+          "ARM":"Հորիս"
+        },
+        "lat": "39.8625",
+        "lng": "45.2303",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1136",
+        "population_proper": "1136"
+      },
+      {
+        "city":  {
+          "EN":"Artabuynk",
+          "RU":"Артабуйнк",
+          "ARM":"Հարթաբույնիկ"
+        },
+        "lat": "39.8589",
+        "lng": "45.3614",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1107",
+        "population_proper": "1107"
+      },
+      {
+        "city":  {
+          "EN":"Khachik",
+          "RU":"Хачик",
+          "ARM":"Խաչիկ"
+        },
+        "lat": "39.6217",
+        "lng": "45.2056",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1103",
+        "population_proper": "1103"
+      },
+      {
+        "city":  {
+          "EN":"Kechut",
+          "RU":"Кечут",
+          "ARM":"Կեչուտ"
+        },
+        "lat": "39.7994",
+        "lng": "45.6625",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1083",
+        "population_proper": "1083"
+      },
+      {
+        "city":  {
+          "EN":"Bardzruni",
+          "RU":"Бардзруни",
+          "ARM":"Բարձրունի"
+        },
+        "lat": "39.5208",
+        "lng": "45.4822",
+        "country": "Armenia",
+        "iso2": "AM",
+        "admin_name": "Vayots Dzor",
+        "capital": "",
+        "population": "1050",
+        "population_proper": "1050"
+      }
+    ]
+  }
+]

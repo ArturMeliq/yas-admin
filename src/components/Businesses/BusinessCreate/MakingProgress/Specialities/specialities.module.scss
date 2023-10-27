@@ -1,0 +1,82 @@
+.spec {
+  width: 100%;
+
+  .main_section {
+    width: 100%;
+    position: relative;
+
+    .main_section_title {
+      color: #233242;
+      margin: 10px 0;
+      font-style: normal;
+      font-weight: 700;
+      align-self: start;
+      font-size: 20px;
+      line-height: 23px;
+
+    }
+
+    .main_section_text {
+      color: #6a7a8c;
+    }
+
+    .title_wrapper {
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      margin-top: 20px;
+
+      .title_wrapper_text {
+        font-size: 1.7rem;
+        color: #233242;
+        padding: 10px 10px 10px 0;
+      }
+    }
+
+    .business_unique {
+      padding: 20px;
+      border: 2px solid rgba(106, 122, 140, 0.39);
+      border-radius: 5px;
+    }
+
+    .height {
+      height: 200px;
+      margin-top: 10px;
+    }
+
+  }
+
+  //.buttons_space{
+  //  margin-top: 20px;
+  //  margin-right: 20px;
+  //}
+  .btns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+    .save_as_draft {
+      background: red;
+      border: 1px solid red;
+      color: white;
+      margin-right: 10px;
+
+      &:hover {
+        background: white;
+        color: red;
+      }
+    }
+
+    .save {
+      background: green;
+      border: 1px solid green;
+      color: white;
+
+      &:hover {
+        background: white;
+        color: green;
+      }
+    }
+  }
+
+}

@@ -1,0 +1,158 @@
+.activity {
+  width: 100%;
+
+  .activity_title {
+    font-style: normal;
+    max-width: 610px;
+    width: 100%;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #233242;
+    margin-bottom: 16px;
+    padding: 10px 0;
+  }
+
+  .information_btn_block {
+    width: 610px;
+    display: flex;
+    justify-content: space-between;
+    height: max-content;
+
+    .website_btn {
+      width: 117px;
+      height: 60px;
+      padding: 0;
+      border-radius: 10px;
+      border: 1px solid #FF5C00;
+      margin-right: 15px;
+      background: #FF5C00;
+      color: white;
+
+      &:hover {
+        opacity: .8;
+      }
+    }
+
+    .mobile_app_btn {
+      width: 117px;
+      padding: 0;
+      height: 60px;
+      border-radius: 10px;
+      margin-right: 15px;
+      border: 1px solid #FF5C00;
+      background: #FF5C00;
+      color: white;
+
+      &:hover {
+        opacity: .8;
+      }
+    }
+
+    .active {
+      border: 1px solid #233242;
+      background-color: #233242;
+      color: white;
+    }
+
+    .period {
+      width: 255px;
+      height: 42px;
+
+      .period_text {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+      }
+
+      .days_btn {
+        border-right: none;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        padding: 0;
+        width: calc(100% / 3);
+        height: 100%;
+      }
+
+      .middle_months_btn {
+        border-radius: 0;
+        border-left: none;
+        border-right: none;
+        padding: 0;
+        width: calc(100% / 3);
+        height: 100%;
+      }
+
+      .end_months_btn {
+        border-left: none;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        padding: 0;
+        width: calc(100% / 3);
+        height: 100%;
+      }
+    }
+  }
+
+  .chart_wrapper {
+    width: 533px;
+    height: 400px
+  }
+
+  .info_text {
+    color: #233242;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 15px 0;
+  }
+
+  .information {
+    width: 700px;
+    height: 100%;
+    background: #233242;
+    border-radius: 10px;
+    padding: 27px 24px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-self: center;
+
+    .information_item {
+      display: flex;
+      width: 50%;
+      margin-bottom: 15px;
+      align-items: center;
+
+      .information_item_icon {
+        width: 25px;
+        height: 24px;
+        margin-right: 16px;
+      }
+
+      .information_item_label {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color: #FFFFFF;
+      }
+    }
+
+    .change_text {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 16px;
+      color: #FFFFFF;
+      flex: none;
+      order: 1;
+      flex-grow: 0;
+    }
+  }
+}

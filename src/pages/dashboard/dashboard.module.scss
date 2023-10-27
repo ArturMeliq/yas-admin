@@ -1,0 +1,113 @@
+.wrapper {
+  width: 100%;
+  padding: 20px;
+  height: calc(100vh - 80px);
+  display: flex;
+
+  .left_side {
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+
+    .chart_wrapper {
+      padding: 25px 23px;
+      background: #F0F4FE;
+      border-radius: 30px;
+      margin-bottom: 20px;
+
+      .chart_width_height {
+        width: 590px;
+        height: 343px;
+        margin-left: -20px;
+      }
+    }
+
+    .percents_users_wrapper {
+      display: flex;
+    }
+
+    .percents_wrapper {
+      width: 387px;
+      padding: 15px 17px;
+      border-radius: 6px;
+      background: #F0F4FE;
+      display: flex;
+      margin-right: 20px;
+    }
+  }
+
+  .right_side {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+
+    .charts_wrapper {
+      width: auto;
+      display: flex;
+      margin-bottom: 20px;
+
+      .one_char {
+        display: flex;
+        width: 220px;
+        height: 220px;
+        padding: 5px 20px;
+        background: #F0F4FE;
+        border-radius: 30px;
+        margin-right: 20px;
+
+        &:last-child {
+          margin-right: 0;
+        }
+
+        .radialBar_one_char {
+          width: 176px;
+          height: 200px;
+        }
+      }
+    }
+
+    .views_users_wrapper {
+      display: flex;
+      align-items: flex-start;
+
+      .one_char, .one_char_without_calendar {
+        width: 150px;
+        height: 200px;
+
+        .label {
+          left: 46px;
+        }
+
+        .margin_left {
+          margin-left: -30px;
+        }
+      }
+
+      .one_char_without_calendar {
+        margin-bottom: -70px;
+      }
+
+      .quantity_users_wrapper {
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+        align-items: start;
+
+        .new_user_view_wrapper {
+          width: 340px;
+          display: flex;
+          align-items: center;
+          background: #F0F4FE;
+          border-radius: 30px;
+          padding: 14px;
+        }
+
+        .top_commented_users {
+          margin-top: 20px;
+        }
+      }
+    }
+
+  }
+}

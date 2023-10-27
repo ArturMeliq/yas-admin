@@ -1,0 +1,63 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+
+  .page {
+    padding: 0 10px;
+  }
+
+  .prev, .next {
+    width: 7px;
+    height: 11px;
+    cursor: pointer;
+
+    &.disabled {
+      pointer-events: none;
+
+      .prev_link, .next_link {
+
+        svg {
+          path {
+            fill: rgba(19, 55, 108, 0.45);
+          }
+        }
+      }
+    }
+
+    .prev_link, .next_link {
+      display: block;
+      width: 100%;
+      height: 100%;
+
+      svg {
+        width: 100%;
+        height: 100%;
+
+        path {
+          fill: #13376C;
+          fill-opacity: 1;
+        }
+      }
+    }
+  }
+
+  .link {
+    color: rgba(19, 55, 108, 0.7);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    cursor: pointer;
+
+    &.active_link {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 19px;
+      color: #13376C;
+      pointer-events: none;
+    }
+  }
+
+}

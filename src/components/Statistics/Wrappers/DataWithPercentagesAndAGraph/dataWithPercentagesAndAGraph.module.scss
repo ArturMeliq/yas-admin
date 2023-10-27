@@ -1,0 +1,36 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  .left_side, .right_side {
+    width: calc(49% - 20px);
+
+    .percents_wrapper {
+      display: flex;
+      padding: 20px 26px;
+      border-radius: 6px;
+      background: #F0F4FE;
+      margin-bottom: 39px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    .chart_wrapper {
+      padding: 25px 23px;
+      background: #F0F4FE;
+      border-radius: 30px;
+      margin-bottom: 20px;
+
+      .chart_width_height {
+        height: 234px;
+        margin-left: -20px;
+      }
+    }
+
+  }
+}
+
